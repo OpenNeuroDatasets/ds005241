@@ -1,5 +1,5 @@
 {
-    "Name": "NeuroMorph: A High-Temporal Resolution MEG Dataset for Morpheme-Based Linguistic Analysis",
+    "Name": "NeuroMorph: An MEG Dataset for Morpheme-Based Linguistic Analysis",
     "BIDSVersion": "1.7.0",
     "DatasetType": "raw",
     "Authors": [
