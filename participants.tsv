@@ -1,0 +1,33 @@
+participant_id	block_order	hand	gender	date of birth	spelling_preference	languages_spoken
+sub-A0394	"1,2"	Right	M	17-Apr-98	American	"English, Mandarin, Korean, Spanish, Malay"
+sub-A0421	"2,1 "	Right	F	24-Feb-98	American	English
+sub-A0446	"1,2"	Right	M	21-Jan-96	British	English
+sub-A0451	"2,1"	Right	F	4-Apr-00	British	"English, French"
+sub-A0461	"1, 2"	Right	F	2-Jul-03	British	English
+sub-A0468	"2, 1"	Right	M		American	"English, Brazilian Portuguese, Spanish"
+sub-A0484	"1, 2"				British	Bengali
+sub-A0495	"2, 1"	Right	F	3-Oct-02	British	
+sub-A0501	"1, 2"	Right	M	16-Jun-78	British	"Tamil, English"
+sub-A0502	"2, 1"	Right	M	18-Mar-02	American	"Hindi, English, Gujarati"
+sub-A0503	"1, 2"	Right	F	26-Apr-04	British	"English, Farsi"
+sub-A0504	"2, 1"	Right	F	27-Jun-00	American	"English, Bangla, Hindi, Urdu"
+sub-A0505	"1, 2"	Right	M	21-Mar-02	No clear preference	"Kinyarwanda, Chinese, English"
+sub-A0508 	"2, 1"	Right	M	5-Jun-95	British	"English, Bengali"
+sub-A0509	"1, 2"	Right	F	26-Feb-04	British	"English, Bengali, Urdu, Arabic"
+sub-A0510	"2, 1"	Right	F	3-Oct-03	No clear preference	"Hindi, English"
+sub-A0511	"1, 2"	Right	M	24-Sep-03	British	"Arabic, French, English"
+sub-A0512	"2, 1"	Right	M	23-Aug-02	British	"English, Swahili"
+sub-A0513	"1, 2"	Right	F	19-Oct-01	American	"Russian, English, Kazakh"
+sub-A0514	"2, 1"	Left	M	19-Jul-03	British	"Urdu, English"
+sub-A0515	"1, 2"	Right	F	25-Jan-04	American	"Hindi, Nepali, English, Maithili"
+sub-A0516	"2, 1"	Right	F	24-Jul-02	American	"English, Italian"
+sub-A0517	"1, 2"	Right	F	31-Oct-02	American	"English, Russian, German"
+sub-A0518	"2, 1"	Right	M	14-May-03	American	"English, Spanish"
+sub-A0519	"1, 2"	Right	M	1-Nov-01	American	"Amharic, English"
+sub-A0520	"2, 1"	Right	F	31-Aug-02	American	"English, Korean"
+sub-A0521	"1, 2"	Right	M	23-Jul-02	No clear preference	"Spanish, English, French"
+sub-A0522	"2, 1"	Right	M	3-Jun-02	British	"English, Bengali"
+sub-A0523	"1, 2"	Right	M	23-Apr-02	No clear preference	"Urdu, Sindhi, English"
+sub-A0524	"2, 1"	Right	M	5-Jun-88	British	Pashto/Urdu/Punjabi/English/Arabic/Russian/Spanish/Malayalam
+sub-A0525	"1, 2"	Right	F	4-Jul-94	British	English
+sub-A0526	"2,1 "	Right	M	30-May-04	American	English
