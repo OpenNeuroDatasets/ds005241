@@ -2,33 +2,28 @@
     "participant_id": {
         "Description": "Unique participant identifier"
     },
-    "block_order": {
-        "Description": "Order of the blocks during the lexical decision task"
-    },
     "hand": {
         "Description": "Handedness of the participant",
         "Levels": {
-            "R": "right",
-            "L": "left",
-            "A": "ambidextrous"
+            "Right": "Right",
+            "Left": "Left"
         }
     },
     "gender": {
         "Description": "Gender of the participant",
         "Levels": {
-            "F": "female",
-            "M": "male",
-            "O": "other"
+            "F": "Female",
+            "M": "Male"
         }
     },
     "spelling_preference": {
         "Description": "Spelling preference of the participant",
         "Levels": {
-            "UK": "british spelling",
-            "US": "american spelling"
+            "UK": "British spelling",
+            "US": "American spelling"
         }
     },
     "languages_spoken": {
-        "Description": "Languages spoken by the participant"
+        "Description": "Languages spoken as reported by the participant"
     }
 }
