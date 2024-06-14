@@ -1,0 +1,945 @@
+onset	duration	trial_type	value	sample	stimulus	is_word	response	correct
+37.576	0.0	2Suff w/o Lat.	22	37576	masterfully	1.0	0.0	False
+38.693	0.0	1Suff w/o Lat.	12	38693	lovely	1.0	0.0	False
+39.535	0.0	1Suff w/o Lat.	12	39535	continuous	1.0	1.0	True
+41.602	0.0	2Suff PseudoStemNW	24	41602	flivitually	0.0	0.0	True
+43.186	0.0	2Suff w/o Lat.	22	43186	spiritualize	1.0	0.0	False
+44.203	0.0	1Suff RealStemNW	15	44203	conductful	0.0	0.0	True
+45.229	0.0	2Suff w/o Lat.	22	45229	effortlessly	1.0	0.0	False
+46.146	0.0	1Suff PseudoStemNW	14	46146	allendive	0.0	1.0	False
+47.329	0.0	2Suff RealStemNW	25	47329	assertishness	0.0	1.0	False
+49.213	0.0	1Suff RealStemNW	15	49213	helpive	0.0	1.0	False
+50.397	0.0	2Suff w/o Lat.	22	50397	luckily	1.0	0.0	False
+51.439	0.0	0Suff w/o Lat.	2	51439	fool	1.0	0.0	False
+52.522	0.0	1Suff w/ Lat.	11	52522	exclusive	1.0	0.0	False
+53.606	0.0	2Suff RealStemNW	25	53606	whimsally	0.0	1.0	False
+55.157	0.0	0Suff w/o Lat.	2	55157	wonder	1.0	0.0	False
+56.149	0.0	2Suff w/o Lat.	22	56149	momentarily	1.0	0.0	False
+57.291	0.0	2Suff w/ Lat.	21	57291	objectively	1.0	0.0	False
+58.316	0.0	2Suff RealStemNW	25	58316	creatously	0.0	1.0	False
+59.733	0.0	2Suff RealStemNW	25	59733	civilability	0.0	0.0	True
+61.242	0.0	0Suff NW	4	61242	jok	0.0	1.0	False
+62.526	0.0	2Suff PseudoStemNW	24	62526	trithfully	0.0	1.0	False
+63.868	0.0	2Suff PseudoStemNW	24	63868	navounalism	0.0	1.0	False
+65.001	0.0	2Suff w/o Lat.	22	65001	clinically	1.0	0.0	False
+66.435	0.0	2Suff w/ Lat.	21	66435	exclusively	1.0	0.0	False
+67.477	0.0	1Suff w/ Lat.	11	67477	presumable	1.0	0.0	False
+68.636	0.0	2Suff w/o Lat.	22	68636	significant	1.0	0.0	False
+69.761	0.0	0Suff w/o Lat.	2	69761	victim	1.0	0.0	False
+70.686	0.0	1Suff RealStemNW	15	70686	mournive	0.0	1.0	False
+72.078	0.0	2Suff PseudoStemNW	24	72078	abadilionist	0.0	1.0	False
+73.154	0.0	1Suff w/o Lat.	12	73154	cyclic	1.0	0.0	False
+74.296	0.0	1Suff w/ Lat.	11	74296	objective	1.0	0.0	False
+75.304	0.0	2Suff w/ Lat.	21	75304	intentional	1.0	0.0	False
+76.33	0.0	2Suff w/ Lat.	21	76330	exclusiveness	1.0	0.0	False
+77.338	0.0	1Suff w/o Lat.	12	77338	artful	1.0	0.0	False
+78.339	0.0	2Suff PseudoStemNW	24	78339	darberously	0.0	1.0	False
+79.489	0.0	2Suff RealStemNW	25	79489	embarkfully	0.0	1.0	False
+80.948	0.0	2Suff w/o Lat.	22	80948	excellently	1.0	0.0	False
+81.99	0.0	0Suff w/o Lat.	2	81990	industry	1.0	0.0	False
+83.015	0.0	2Suff PseudoStemNW	24	83015	moolurably	0.0	1.0	False
+84.074	0.0	1Suff w/o Lat.	12	84074	mournful	1.0	0.0	False
+85.124	0.0	0Suff w/o Lat.	2	85124	right	1.0	0.0	False
+86.083	0.0	1Suff w/o Lat.	12	86083	tireless	1.0	0.0	False
+87.025	0.0	1Suff PseudoStemNW	14	87025	gunderful	0.0	1.0	False
+88.142	0.0	2Suff w/o Lat.	22	88142	comparatively	1.0	0.0	False
+89.509	0.0	0Suff NW	4	89509	moolure	0.0	1.0	False
+90.467	0.0	2Suff PseudoStemNW	24	90467	excrodiveness	0.0	1.0	False
+91.876	0.0	2Suff PseudoStemNW	24	91876	connurtivity	0.0	1.0	False
+92.91	0.0	2Suff w/o Lat.	22	92910	virtuosity	1.0	0.0	False
+94.085	0.0	0Suff NW	4	94085	clade	0.0	1.0	False
+95.327	0.0	1Suff PseudoStemNW	14	95327	onnention	0.0	1.0	False
+96.269	0.0	0Suff w/o Lat.	2	96269	tradition	1.0	0.0	False
+97.236	0.0	2Suff w/o Lat.	22	97236	existential	1.0	0.0	False
+98.287	0.0	2Suff RealStemNW	25	98287	sensator	0.0	1.0	False
+99.57	0.0	2Suff PseudoStemNW	24	99570	jokfully	0.0	1.0	False
+100.671	0.0	2Suff w/o Lat.	22	100671	nationally	1.0	0.0	False
+101.871	0.0	0Suff w/o Lat.	2	101871	human	1.0	0.0	False
+102.83	0.0	2Suff Composite	23	102830	fortification	1.0	0.0	False
+103.988	0.0	2Suff Composite	23	103988	degradation	1.0	0.0	False
+105.072	0.0	2Suff w/o Lat.	22	105072	sensibility	1.0	0.0	False
+105.997	0.0	1Suff RealStemNW	15	105997	virtance	0.0	1.0	False
+107.398	0.0	1Suff w/o Lat.	12	107398	relentless	1.0	0.0	False
+108.381	0.0	2Suff RealStemNW	25	108381	variality	0.0	1.0	False
+109.898	0.0	1Suff RealStemNW	15	109898	exclusful	0.0	1.0	False
+111.04	0.0	2Suff w/o Lat.	22	111040	heroically	1.0	0.0	False
+112.283	0.0	2Suff PseudoStemNW	24	112283	seetably	0.0	1.0	False
+113.291	0.0	2Suff RealStemNW	25	113291	penalilessly	0.0	1.0	False
+114.358	0.0	2Suff w/o Lat.	22	114358	greedily	1.0	0.0	False
+115.375	0.0	2Suff w/o Lat.	22	115375	powerfully	1.0	0.0	False
+116.35	0.0	2Suff w/o Lat.	22	116350	mournfully	1.0	0.0	False
+117.292	0.0	0Suff w/o Lat.	2	117292	kind	1.0	0.0	False
+118.126	0.0	1Suff RealStemNW	15	118126	abolitate	0.0	1.0	False
+119.168	0.0	2Suff PseudoStemNW	24	119168	sedulation	0.0	1.0	False
+120.227	0.0	2Suff RealStemNW	25	120227	careiousness	0.0	1.0	False
+121.227	0.0	2Suff w/o Lat.	22	121227	variability	1.0	0.0	False
+122.402	0.0	2Suff PseudoStemNW	24	122402	effornively	0.0	1.0	False
+123.403	0.0	1Suff RealStemNW	15	123403	selfable	0.0	1.0	False
+124.428	0.0	1Suff RealStemNW	15	124428	monumentic	0.0	1.0	False
+125.362	0.0	2Suff w/o Lat.	22	125362	drunkenly	1.0	0.0	False
+126.487	0.0	1Suff RealStemNW	15	126487	helpable	0.0	1.0	False
+128.146	0.0	2Suff w/o Lat.	22	128146	mercilessly	1.0	0.0	False
+129.229	0.0	0Suff NW	4	129229	cutfure	0.0	1.0	False
+130.305	0.0	2Suff RealStemNW	25	130305	victimilessly	0.0	0.0	True
+131.455	0.0	2Suff RealStemNW	25	131455	hastery	0.0	1.0	False
+132.539	0.0	1Suff w/o Lat.	12	132539	instinctive	1.0	0.0	False
+133.464	0.0	2Suff RealStemNW	25	133464	nationantly	0.0	1.0	False
+134.973	0.0	2Suff w/o Lat.	22	134973	symbolically	1.0	0.0	False
+136.09	0.0	0Suff w/ Lat.	1	136090	object	1.0	0.0	False
+137.082	0.0	2Suff RealStemNW	25	137082	joyality	0.0	1.0	False
+138.216	0.0	2Suff w/o Lat.	22	138216	preferably	1.0	0.0	False
+139.241	0.0	2Suff w/o Lat.	22	139241	hastily	1.0	0.0	False
+140.508	0.0	2Suff Composite	23	140508	unification	1.0	1.0	True
+141.492	0.0	1Suff RealStemNW	15	141492	perfectate	0.0	1.0	False
+143.45	0.0	0Suff NW	4	143450	murpy	0.0	1.0	False
+144.434	0.0	0Suff NW	4	144434	freat	0.0	1.0	False
+145.501	0.0	0Suff NW	4	145501	excrode	0.0	1.0	False
+146.718	0.0	1Suff w/o Lat.	12	146718	clinical	1.0	0.0	False
+147.793	0.0	1Suff w/o Lat.	12	147793	virtuous	1.0	0.0	False
+148.827	0.0	1Suff RealStemNW	15	148827	fortunion	0.0	1.0	False
+150.102	0.0	1Suff RealStemNW	15	150102	foolory	0.0	1.0	False
+151.37	0.0	1Suff w/o Lat.	12	151370	selfish	1.0	0.0	False
+152.52	0.0	2Suff RealStemNW	25	152520	fruitiously	0.0	1.0	False
+154.671	0.0	2Suff w/ Lat.	21	154671	perfectionist	1.0	0.0	False
+155.746	0.0	0Suff NW	4	155746	coyim	0.0	1.0	False
+156.796	0.0	2Suff RealStemNW	25	156796	farcally	0.0	1.0	False
+157.813	0.0	2Suff w/o Lat.	22	157813	regionally	1.0	0.0	False
+158.897	0.0	2Suff RealStemNW	25	158897	brutantly	0.0	0.0	True
+160.231	0.0	0Suff w/o Lat.	2	160231	cease	1.0	0.0	False
+161.473	0.0	2Suff PseudoStemNW	24	161473	sarumentally	0.0	1.0	False
+162.74	0.0	1Suff w/o Lat.	12	162740	greedy	1.0	0.0	False
+163.782	0.0	1Suff PseudoStemNW	14	163782	elpardive	0.0	1.0	False
+164.907	0.0	1Suff w/ Lat.	11	164907	composite	1.0	0.0	False
+166.916	0.0	0Suff w/ Lat.	1	166916	effect	1.0	0.0	False
+167.808	0.0	2Suff PseudoStemNW	24	167808	arpivity	0.0	1.0	False
+169.058	0.0	1Suff w/o Lat.	12	169058	fortunate	1.0	0.0	False
+170.075	0.0	1Suff w/o Lat.	12	170075	regional	1.0	0.0	False
+171.059	0.0	0Suff w/o Lat.	2	171059	herb	1.0	0.0	False
+172.034	0.0	1Suff w/o Lat.	12	172034	respective	1.0	0.0	False
+172.951	0.0	2Suff RealStemNW	25	172951	explosfully	0.0	0.0	True
+173.885	0.0	2Suff Composite	23	173885	altercation	1.0	0.0	False
+179.445	0.0	2Suff Composite	23	179445	valuation	1.0	0.0	False
+181.012	0.0	0Suff w/o Lat.	2	181012	tactic	1.0	0.0	False
+181.946	0.0	2Suff RealStemNW	25	181946	useiously	0.0	1.0	False
+183.071	0.0	2Suff w/o Lat.	22	183071	spiritually	1.0	0.0	False
+184.046	0.0	0Suff w/o Lat.	2	184046	help	1.0	0.0	False
+184.922	0.0	2Suff PseudoStemNW	24	184922	hettlessly	0.0	1.0	False
+185.989	0.0	0Suff NW	4	185989	contitum	0.0	1.0	False
+186.98	0.0	1Suff w/o Lat.	12	186980	magical	1.0	0.0	False
+187.906	0.0	1Suff w/o Lat.	12	187906	suitable	1.0	0.0	False
+188.789	0.0	1Suff RealStemNW	15	188789	fertilist	0.0	1.0	False
+190.14	0.0	1Suff RealStemNW	15	190140	admirless	0.0	1.0	False
+191.565	0.0	1Suff RealStemNW	15	191565	creatful	0.0	1.0	False
+192.699	0.0	0Suff w/o Lat.	2	192699	measure	1.0	0.0	False
+193.674	0.0	1Suff RealStemNW	15	193674	tacticic	0.0	1.0	False
+195.291	0.0	2Suff PseudoStemNW	24	195291	murpilessly	0.0	1.0	False
+196.325	0.0	1Suff w/ Lat.	11	196325	inspiration	1.0	0.0	False
+197.359	0.0	2Suff PseudoStemNW	24	197359	arresogical	0.0	1.0	False
+198.459	0.0	0Suff NW	4	198459	slex	0.0	1.0	False
+199.443	0.0	1Suff w/o Lat.	12	199443	slipper	1.0	0.0	False
+200.51	0.0	2Suff w/o Lat.	22	200510	cyclical	1.0	0.0	False
+201.618	0.0	1Suff RealStemNW	15	201618	careive	0.0	1.0	False
+203.127	0.0	1Suff PseudoStemNW	14	203127	selvual	0.0	1.0	False
+204.161	0.0	2Suff w/o Lat.	22	204161	critically	1.0	0.0	False
+205.078	0.0	1Suff PseudoStemNW	14	205078	prosodure	0.0	1.0	False
+206.053	0.0	2Suff RealStemNW	25	206053	foolality	0.0	1.0	False
+207.128	0.0	2Suff PseudoStemNW	24	207128	cronitionally	0.0	1.0	False
+208.22	0.0	2Suff w/o Lat.	22	208220	sensibly	1.0	0.0	False
+209.162	0.0	2Suff PseudoStemNW	24	209162	ludsily	0.0	1.0	False
+210.179	0.0	1Suff w/o Lat.	12	210179	personal	1.0	0.0	False
+211.096	0.0	0Suff NW	4	211096	creric	0.0	1.0	False
+212.255	0.0	0Suff NW	4	212255	nolfs	0.0	1.0	False
+213.297	0.0	0Suff w/o Lat.	2	213297	truth	1.0	0.0	False
+214.197	0.0	2Suff w/o Lat.	22	214197	dangerously	1.0	0.0	False
+215.314	0.0	1Suff PseudoStemNW	14	215314	indlidstive	0.0	1.0	False
+216.465	0.0	0Suff NW	4	216465	lums	0.0	1.0	False
+217.523	0.0	0Suff w/o Lat.	2	217523	luck	1.0	0.0	False
+218.59	0.0	2Suff w/o Lat.	22	218590	computerize	1.0	0.0	False
+219.666	0.0	2Suff PseudoStemNW	24	219666	melidification	0.0	1.0	False
+220.916	0.0	2Suff w/o Lat.	22	220916	artistic	1.0	0.0	False
+221.833	0.0	1Suff RealStemNW	15	221833	collectful	0.0	0.0	True
+223.2	0.0	2Suff PseudoStemNW	24	223200	trithfulness	0.0	1.0	False
+224.867	0.0	2Suff PseudoStemNW	24	224867	byvrical	0.0	1.0	False
+225.917	0.0	1Suff w/o Lat.	12	225917	attractive	1.0	0.0	False
+226.959	0.0	0Suff w/o Lat.	2	226959	danger	1.0	0.0	False
+227.876	0.0	2Suff RealStemNW	25	227876	signiousness	0.0	1.0	False
+228.977	0.0	1Suff RealStemNW	15	228977	effortable	0.0	0.0	True
+230.077	0.0	1Suff PseudoStemNW	14	230077	booftiful	0.0	1.0	False
+231.144	0.0	2Suff PseudoStemNW	24	231144	pimerfully	0.0	1.0	False
+232.178	0.0	0Suff w/ Lat.	1	232178	except	1.0	0.0	False
+233.528	0.0	1Suff RealStemNW	15	233528	powerive	0.0	1.0	False
+235.537	0.0	1Suff w/o Lat.	12	235537	comical	1.0	0.0	False
+236.971	0.0	2Suff RealStemNW	25	236971	fooliveness	0.0	1.0	False
+238.18	0.0	2Suff w/o Lat.	22	238180	helplessness	1.0	0.0	False
+239.238	0.0	0Suff w/o Lat.	2	239238	proceed	1.0	0.0	False
+240.347	0.0	2Suff w/o Lat.	22	240347	slippery	1.0	0.0	False
+241.347	0.0	2Suff w/o Lat.	22	241347	loveliness	1.0	0.0	False
+242.548	0.0	2Suff w/o Lat.	22	242548	noisily	1.0	0.0	False
+244.273	0.0	0Suff w/o Lat.	2	244273	abolish	1.0	0.0	False
+245.332	0.0	1Suff w/ Lat.	11	245332	conclusive	1.0	0.0	False
+246.29	0.0	2Suff RealStemNW	25	246290	feverality	0.0	0.0	True
+247.499	0.0	2Suff w/o Lat.	22	247499	industrialist	1.0	0.0	False
+248.708	0.0	1Suff RealStemNW	15	248708	slippor	0.0	1.0	False
+250.217	0.0	1Suff PseudoStemNW	14	250217	awnist	0.0	1.0	False
+251.292	0.0	1Suff w/o Lat.	12	251292	selfless	1.0	0.0	False
+252.359	0.0	2Suff w/o Lat.	22	252359	spirituality	1.0	0.0	False
+253.384	0.0	1Suff PseudoStemNW	14	253384	orner	0.0	1.0	False
+254.426	0.0	0Suff w/ Lat.	1	254426	provide	1.0	0.0	False
+255.468	0.0	2Suff PseudoStemNW	24	255468	bleadfully	0.0	0.0	True
+256.685	0.0	0Suff NW	4	256685	vectue	0.0	1.0	False
+258.169	0.0	0Suff NW	4	258169	gunder	0.0	1.0	False
+259.119	0.0	2Suff w/o Lat.	22	259119	abolitionist	1.0	1.0	True
+260.578	0.0	2Suff PseudoStemNW	24	260578	navounality	0.0	1.0	False
+261.687	0.0	0Suff NW	4	261687	perfall	0.0	1.0	False
+262.562	0.0	1Suff PseudoStemNW	14	262562	obwertion	0.0	1.0	False
+263.454	0.0	1Suff RealStemNW	15	263454	continuic	0.0	1.0	False
+264.538	0.0	0Suff NW	4	264538	hett	0.0	1.0	False
+265.363	0.0	2Suff PseudoStemNW	24	265363	coyimally	0.0	1.0	False
+266.255	0.0	0Suff w/o Lat.	2	266255	comfort	1.0	0.0	False
+267.189	0.0	2Suff PseudoStemNW	24	267189	utiethation	0.0	1.0	False
+268.08	0.0	0Suff w/o Lat.	2	268080	comic	1.0	0.0	False
+269.014	0.0	0Suff NW	4	269014	pipson	0.0	1.0	False
+269.964	0.0	1Suff w/o Lat.	12	269964	symbolic	1.0	0.0	False
+270.823	0.0	1Suff w/o Lat.	12	270823	cultural	1.0	0.0	False
+271.707	0.0	1Suff PseudoStemNW	14	271707	brealtless	0.0	1.0	False
+272.79	0.0	2Suff w/o Lat.	22	272790	needlessly	1.0	0.0	False
+273.816	0.0	0Suff w/o Lat.	2	273816	culture	1.0	0.0	False
+274.666	0.0	2Suff w/o Lat.	22	274666	relentlessly	1.0	0.0	False
+275.674	0.0	2Suff PseudoStemNW	24	275674	janiability	0.0	1.0	False
+276.65	0.0	2Suff w/o Lat.	22	276650	fertilizer	1.0	0.0	False
+277.592	0.0	1Suff RealStemNW	15	277592	stylify	0.0	1.0	False
+278.542	0.0	2Suff PseudoStemNW	24	278542	retendlessly	0.0	1.0	False
+279.667	0.0	1Suff RealStemNW	15	279667	selfory	0.0	1.0	False
+280.601	0.0	0Suff w/o Lat.	2	280601	vaccine	1.0	0.0	False
+281.593	0.0	2Suff RealStemNW	25	281593	magicical	0.0	0.0	True
+282.443	0.0	2Suff w/o Lat.	22	282443	culturally	1.0	0.0	False
+283.277	0.0	1Suff w/o Lat.	12	283277	merciful	1.0	0.0	False
+284.285	0.0	0Suff w/o Lat.	2	284285	exist	1.0	0.0	False
+285.119	0.0	0Suff NW	4	285119	allend	0.0	1.0	False
+286.211	0.0	2Suff RealStemNW	25	286211	heroliness	0.0	1.0	False
+287.711	0.0	2Suff w/ Lat.	21	287711	institutional	1.0	0.0	False
+289.112	0.0	2Suff w/o Lat.	22	289112	herbalist	1.0	0.0	False
+290.137	0.0	1Suff RealStemNW	15	290137	magicic	0.0	0.0	True
+291.021	0.0	0Suff NW	4	291021	efforn	0.0	0.0	True
+291.879	0.0	2Suff w/o Lat.	22	291879	traditionally	1.0	0.0	False
+292.921	0.0	1Suff w/o Lat.	12	292921	sharpen	1.0	0.0	False
+293.922	0.0	2Suff Composite	23	293922	limitation	1.0	0.0	False
+294.897	0.0	1Suff PseudoStemNW	14	294897	jokous	0.0	1.0	False
+296.014	0.0	2Suff Composite	23	296014	identification	1.0	0.0	False
+297.073	0.0	0Suff NW	4	297073	copperce	0.0	1.0	False
+298.29	0.0	2Suff w/o Lat.	22	298290	fearfully	1.0	0.0	False
+299.265	0.0	0Suff w/o Lat.	2	299265	courage	1.0	0.0	False
+300.24	0.0	0Suff w/o Lat.	2	300240	suit	1.0	0.0	False
+301.041	0.0	1Suff w/ Lat.	11	301041	conductive	1.0	0.0	False
+301.991	0.0	2Suff w/o Lat.	22	301991	joyfully	1.0	0.0	False
+302.808	0.0	1Suff w/o Lat.	12	302808	owner	1.0	0.0	False
+303.641	0.0	0Suff NW	4	303641	mocond	0.0	1.0	False
+304.658	0.0	2Suff w/o Lat.	22	304658	wonderfully	1.0	0.0	False
+305.542	0.0	2Suff RealStemNW	25	305542	ownmental	0.0	1.0	False
+307.101	0.0	2Suff RealStemNW	25	307101	exceptality	0.0	1.0	False
+313.169	0.0	2Suff RealStemNW	25	313169	continliness	0.0	1.0	False
+314.228	0.0	2Suff w/o Lat.	22	314228	righteousness	1.0	0.0	False
+315.178	0.0	2Suff PseudoStemNW	24	315178	booftifully	0.0	1.0	False
+316.245	0.0	1Suff RealStemNW	15	316245	victimist	0.0	0.0	True
+317.271	0.0	2Suff Composite	23	317271	synchronization	1.0	1.0	True
+318.238	0.0	1Suff PseudoStemNW	14	318238	franical	0.0	1.0	False
+319.88	0.0	2Suff PseudoStemNW	24	319880	comborition	0.0	1.0	False
+320.855	0.0	1Suff w/o Lat.	12	320855	procedure	1.0	0.0	False
+321.88	0.0	1Suff w/o Lat.	12	321880	flexible	1.0	0.0	False
+322.781	0.0	2Suff w/o Lat.	22	322781	falsification	1.0	0.0	False
+324.039	0.0	2Suff PseudoStemNW	24	324039	cheherably	0.0	1.0	False
+325.081	0.0	1Suff RealStemNW	15	325081	comparatful	0.0	1.0	False
+326.407	0.0	0Suff NW	4	326407	spip	0.0	1.0	False
+327.382	0.0	0Suff NW	4	327382	lecer	0.0	1.0	False
+328.557	0.0	2Suff PseudoStemNW	24	328557	pipsonally	0.0	1.0	False
+329.599	0.0	0Suff NW	4	329599	fortord	0.0	1.0	False
+330.541	0.0	1Suff w/o Lat.	12	330541	various	1.0	0.0	False
+331.517	0.0	0Suff NW	4	331517	herf	0.0	1.0	False
+332.559	0.0	0Suff NW	4	332559	dester	0.0	1.0	False
+333.434	0.0	1Suff w/o Lat.	12	333434	civilize	1.0	0.0	False
+334.484	0.0	2Suff w/o Lat.	22	334484	drunkenness	1.0	1.0	True
+335.493	0.0	2Suff RealStemNW	25	335493	opticical	0.0	1.0	False
+336.51	0.0	2Suff RealStemNW	25	336510	legalability	0.0	0.0	True
+338.594	0.0	2Suff PseudoStemNW	24	338594	provacional	0.0	1.0	False
+340.178	0.0	1Suff PseudoStemNW	14	340178	ludsy	0.0	1.0	False
+341.153	0.0	2Suff Composite	23	341153	solipsistic	1.0	1.0	True
+342.162	0.0	2Suff Composite	23	342162	orientation	1.0	0.0	False
+343.204	0.0	1Suff w/o Lat.	12	343204	needless	1.0	0.0	False
+344.146	0.0	0Suff w/o Lat.	2	344146	master	1.0	0.0	False
+344.979	0.0	0Suff NW	4	344979	franic	0.0	0.0	True
+345.796	0.0	1Suff w/o Lat.	12	345796	effortless	1.0	0.0	False
+346.721	0.0	0Suff NW	4	346721	brealt	0.0	1.0	False
+347.663	0.0	1Suff RealStemNW	15	347663	nationic	0.0	1.0	False
+348.955	0.0	2Suff RealStemNW	25	348955	actional	0.0	1.0	False
+350.031	0.0	0Suff NW	4	350031	jany	0.0	1.0	False
+350.956	0.0	2Suff PseudoStemNW	24	350956	vetcination	0.0	1.0	False
+351.898	0.0	0Suff w/o Lat.	2	351898	broke	1.0	0.0	False
+352.94	0.0	1Suff w/o Lat.	12	352940	falsify	1.0	0.0	False
+354.015	0.0	0Suff NW	4	354015	awn	0.0	0.0	True
+354.932	0.0	0Suff w/o Lat.	2	354932	greed	1.0	0.0	False
+355.766	0.0	1Suff w/o Lat.	12	355766	humanist	1.0	0.0	False
+356.708	0.0	2Suff w/o Lat.	22	356708	prophetically	1.0	0.0	False
+357.933	0.0	0Suff NW	4	357933	kibs	0.0	1.0	False
+359.033	0.0	1Suff RealStemNW	15	359033	industryic	0.0	1.0	False
+360.075	0.0	1Suff PseudoStemNW	14	360075	sothodical	0.0	1.0	False
+361.026	0.0	2Suff w/o Lat.	22	361026	brutality	1.0	0.0	False
+362.226	0.0	1Suff RealStemNW	15	362226	modulion	0.0	1.0	False
+363.868	0.0	1Suff PseudoStemNW	14	363868	obwertive	0.0	1.0	False
+364.844	0.0	0Suff w/o Lat.	2	364844	heart	1.0	0.0	False
+365.777	0.0	2Suff w/o Lat.	22	365777	modernization	1.0	0.0	False
+366.961	0.0	1Suff w/o Lat.	12	366961	careless	1.0	0.0	False
+368.111	0.0	1Suff w/o Lat.	12	368111	fruitless	1.0	0.0	False
+369.02	0.0	1Suff RealStemNW	15	369020	commerceic	0.0	1.0	False
+370.462	0.0	1Suff w/o Lat.	12	370462	merciless	1.0	0.0	False
+371.387	0.0	1Suff w/o Lat.	12	371387	kindly	1.0	0.0	False
+372.279	0.0	1Suff w/o Lat.	12	372279	sensual	1.0	0.0	False
+373.296	0.0	2Suff w/o Lat.	22	373296	activity	1.0	0.0	False
+374.138	0.0	0Suff w/o Lat.	2	374138	moment	1.0	0.0	False
+375.038	0.0	2Suff PseudoStemNW	24	375038	comfernably	0.0	1.0	False
+376.222	0.0	2Suff w/ Lat.	21	376222	explosively	1.0	0.0	False
+377.456	0.0	0Suff NW	4	377456	tedal	0.0	1.0	False
+378.573	0.0	0Suff NW	4	378573	greard	0.0	1.0	False
+379.79	0.0	0Suff NW	4	379790	orn	0.0	1.0	False
+380.74	0.0	0Suff NW	4	380740	bruke	0.0	1.0	False
+381.79	0.0	2Suff w/ Lat.	21	381790	objectionable	1.0	0.0	False
+382.999	0.0	2Suff w/o Lat.	22	382999	variously	1.0	0.0	False
+384.2	0.0	1Suff PseudoStemNW	14	384200	nolfy	0.0	1.0	False
+385.25	0.0	2Suff RealStemNW	25	385250	senseiously	0.0	1.0	False
+386.225	0.0	2Suff PseudoStemNW	24	386225	murpifully	0.0	1.0	False
+387.242	0.0	1Suff RealStemNW	15	387242	modernate	0.0	0.0	True
+388.859	0.0	2Suff w/o Lat.	22	388859	uselessly	1.0	0.0	False
+389.868	0.0	0Suff NW	4	389868	combere	0.0	1.0	False
+390.952	0.0	2Suff w/o Lat.	22	390952	measurably	1.0	0.0	False
+392.027	0.0	2Suff w/o Lat.	22	392027	instinctively	1.0	1.0	True
+393.277	0.0	0Suff w/o Lat.	2	393277	commerce	1.0	0.0	False
+395.661	0.0	0Suff NW	4	395661	adnise	0.0	1.0	False
+397.204	0.0	0Suff w/o Lat.	2	397204	sense	1.0	0.0	False
+398.12	0.0	0Suff NW	4	398120	eschess	0.0	1.0	False
+399.296	0.0	2Suff w/ Lat.	21	399296	excessively	1.0	0.0	False
+400.313	0.0	1Suff w/o Lat.	12	400313	fertilize	1.0	0.0	False
+401.421	0.0	1Suff RealStemNW	15	401421	selectful	0.0	0.0	True
+402.914	0.0	2Suff PseudoStemNW	24	402914	andezation	0.0	0.0	True
+404.172	0.0	2Suff RealStemNW	25	404172	fertilability	0.0	0.0	True
+405.056	0.0	0Suff NW	4	405056	boofty	0.0	1.0	False
+406.173	0.0	2Suff PseudoStemNW	24	406173	paragewical	0.0	1.0	False
+407.24	0.0	2Suff w/o Lat.	22	407240	personally	1.0	0.0	False
+408.282	0.0	0Suff NW	4	408282	luds	0.0	1.0	False
+409.374	0.0	2Suff w/o Lat.	22	409374	foolishness	1.0	0.0	False
+410.391	0.0	0Suff w/o Lat.	2	410391	method	1.0	0.0	False
+411.4	0.0	2Suff RealStemNW	25	411400	purifilessly	0.0	1.0	False
+413.125	0.0	1Suff w/ Lat.	11	413125	effective	1.0	0.0	False
+413.967	0.0	1Suff w/o Lat.	12	413967	monumental	1.0	0.0	False
+415.251	0.0	1Suff PseudoStemNW	14	415251	darberous	0.0	1.0	False
+416.326	0.0	1Suff w/o Lat.	12	416326	computer	1.0	0.0	False
+417.251	0.0	2Suff RealStemNW	25	417251	ceaseiously	0.0	1.0	False
+419.06	0.0	1Suff w/o Lat.	12	419060	signify	1.0	0.0	False
+419.952	0.0	0Suff w/o Lat.	2	419952	prophet	1.0	0.0	False
+420.936	0.0	1Suff PseudoStemNW	14	420936	comburer	0.0	1.0	False
+422.019	0.0	0Suff NW	4	422019	exfal	0.0	1.0	False
+423.086	0.0	1Suff RealStemNW	15	423086	traditionic	0.0	0.0	True
+424.395	0.0	0Suff w/o Lat.	2	424395	fever	1.0	0.0	False
+425.504	0.0	1Suff w/o Lat.	12	425504	endless	1.0	0.0	False
+426.629	0.0	1Suff w/o Lat.	12	426629	collective	1.0	0.0	False
+427.588	0.0	2Suff Composite	23	427588	identical	1.0	0.0	False
+428.538	0.0	0Suff NW	4	428538	provace	0.0	1.0	False
+430.405	0.0	0Suff w/o Lat.	2	430405	pure	1.0	0.0	False
+431.389	0.0	1Suff PseudoStemNW	14	431389	cuppomary	0.0	1.0	False
+432.431	0.0	2Suff w/o Lat.	22	432431	magically	1.0	0.0	False
+433.298	0.0	2Suff RealStemNW	25	433298	admirical	0.0	0.0	True
+434.307	0.0	2Suff RealStemNW	25	434307	vulgarilessly	0.0	1.0	False
+435.799	0.0	1Suff RealStemNW	15	435799	effectful	0.0	0.0	True
+436.707	0.0	2Suff RealStemNW	25	436707	flexfulness	0.0	1.0	False
+438.008	0.0	2Suff PseudoStemNW	24	438008	lurtilizer	0.0	1.0	False
+439.066	0.0	2Suff PseudoStemNW	24	439066	pipsonality	0.0	1.0	False
+440.058	0.0	1Suff w/o Lat.	12	440058	noisy	1.0	1.0	True
+440.917	0.0	0Suff NW	4	440917	conspode	0.0	1.0	False
+441.926	0.0	0Suff NW	4	441926	darber	0.0	1.0	False
+442.876	0.0	2Suff PseudoStemNW	24	442876	selvuality	0.0	1.0	False
+443.86	0.0	2Suff w/ Lat.	21	443860	provisional	1.0	0.0	False
+478.92	0.0	1Suff PseudoStemNW	14	478920	esressive	0.0	1.0	False
+480.121	0.0	2Suff RealStemNW	25	480121	masterively	0.0	1.0	False
+481.271	0.0	0Suff NW	4	481271	nolave	0.0	1.0	False
+482.271	0.0	0Suff NW	4	482271	comfern	0.0	1.0	False
+483.388	0.0	2Suff PseudoStemNW	24	483388	atstartively	0.0	1.0	False
+484.489	0.0	2Suff PseudoStemNW	24	484489	foffification	0.0	1.0	False
+485.689	0.0	0Suff w/o Lat.	2	485689	mercy	1.0	0.0	False
+486.789	0.0	2Suff w/o Lat.	22	486789	argumentative	1.0	0.0	False
+487.94	0.0	2Suff PseudoStemNW	24	487940	cankfully	0.0	1.0	False
+488.99	0.0	2Suff Composite	23	488990	maturation	1.0	0.0	False
+490.074	0.0	1Suff w/o Lat.	12	490074	argument	1.0	0.0	False
+490.957	0.0	0Suff w/o Lat.	2	490957	admire	1.0	0.0	False
+491.908	0.0	2Suff PseudoStemNW	24	491908	griedily	0.0	1.0	False
+493.6	0.0	2Suff Composite	23	493600	sensation	1.0	0.0	False
+494.667	0.0	2Suff w/o Lat.	22	494667	humanistic	1.0	0.0	False
+495.851	0.0	0Suff NW	4	495851	carsh	0.0	1.0	False
+497.593	0.0	1Suff w/o Lat.	12	497593	confidence	1.0	1.0	True
+498.96	0.0	0Suff NW	4	498960	atstart	0.0	1.0	False
+499.952	0.0	1Suff w/ Lat.	11	499952	excessive	1.0	0.0	False
+500.969	0.0	0Suff w/ Lat.	1	500969	inspire	1.0	0.0	False
+501.944	0.0	1Suff PseudoStemNW	14	501944	broler	0.0	1.0	False
+502.936	0.0	2Suff PseudoStemNW	24	502936	flivitualize	0.0	1.0	False
+504.011	0.0	0Suff NW	4	504011	prosood	0.0	1.0	False
+504.987	0.0	0Suff NW	4	504987	indolsty	0.0	1.0	False
+505.92	0.0	1Suff PseudoStemNW	14	505920	shacten	0.0	1.0	False
+506.771	0.0	2Suff RealStemNW	25	506771	customantly	0.0	1.0	False
+508.113	0.0	0Suff w/o Lat.	2	508113	just	1.0	0.0	False
+509.18	0.0	2Suff w/o Lat.	22	509180	tirelessly	1.0	0.0	False
+510.172	0.0	1Suff RealStemNW	15	510172	fearive	0.0	1.0	False
+511.372	0.0	2Suff PseudoStemNW	24	511372	faicification	0.0	1.0	False
+512.456	0.0	0Suff NW	4	512456	arbub	0.0	1.0	False
+513.406	0.0	0Suff w/o Lat.	2	513406	module	1.0	1.0	True
+514.29	0.0	2Suff RealStemNW	25	514290	identally	0.0	1.0	False
+515.682	0.0	1Suff RealStemNW	15	515682	preferless	0.0	1.0	False
+517.14	0.0	1Suff w/o Lat.	12	517140	continual	1.0		False
+519.533	0.0	0Suff w/ Lat.	1	519533	conclude	1.0	0.0	False
+520.491	0.0	2Suff PseudoStemNW	24	520491	fortorately	0.0	1.0	False
+521.583	0.0	2Suff w/o Lat.	22	521583	activate	1.0	0.0	False
+522.425	0.0	0Suff w/o Lat.	2	522425	cause	1.0	0.0	False
+523.317	0.0	0Suff w/o Lat.	2	523317	instinct	1.0	0.0	False
+524.251	0.0	2Suff RealStemNW	25	524251	valufully	0.0	0.0	True
+525.235	0.0	1Suff RealStemNW	15	525235	fruitable	0.0	0.0	True
+526.06	0.0	0Suff w/o Lat.	2	526060	virtue	1.0	0.0	False
+526.993	0.0	0Suff w/o Lat.	2	526993	expand	1.0	0.0	False
+527.835	0.0	2Suff RealStemNW	25	527835	momentantly	0.0	0.0	True
+528.852	0.0	2Suff w/o Lat.	22	528852	selflessness	1.0	0.0	False
+529.878	0.0	0Suff w/ Lat.	1	529878	compose	1.0	0.0	False
+530.736	0.0	1Suff w/o Lat.	12	530736	momentary	1.0	0.0	False
+531.603	0.0	0Suff NW	4	531603	rinch	0.0	1.0	False
+532.67	0.0	0Suff NW	4	532670	recrern	0.0	1.0	False
+533.704	0.0	1Suff PseudoStemNW	14	533704	eschession	0.0	1.0	False
+534.629	0.0	1Suff PseudoStemNW	14	534629	mocondary	0.0	1.0	False
+535.621	0.0	1Suff w/o Lat.	12	535621	comparative	1.0	0.0	False
+536.796	0.0	1Suff PseudoStemNW	14	536796	ceantless	0.0	1.0	False
+537.788	0.0	2Suff w/o Lat.	22	537788	justifiable	1.0	0.0	False
+538.747	0.0	1Suff PseudoStemNW	14	538747	crerical	0.0	1.0	False
+539.814	0.0	1Suff PseudoStemNW	14	539814	coatageous	0.0	1.0	False
+541.506	0.0	2Suff PseudoStemNW	24	541506	sothodically	0.0	1.0	False
+542.548	0.0	0Suff w/o Lat.	2	542548	attend	1.0	0.0	False
+543.557	0.0	0Suff NW	4	543557	shact	0.0	1.0	False
+544.59	0.0	2Suff PseudoStemNW	24	544590	hettfully	0.0	1.0	False
+545.491	0.0	2Suff PseudoStemNW	24	545491	ewilsential	0.0	1.0	False
+546.383	0.0	1Suff RealStemNW	15	546383	relentable	0.0	1.0	False
+547.917	0.0	1Suff PseudoStemNW	14	547917	atstartive	0.0	1.0	False
+548.959	0.0	1Suff RealStemNW	15	548959	drunkor	0.0	1.0	False
+549.9	0.0	1Suff RealStemNW	15	549900	civilist	0.0	0.0	True
+550.984	0.0	1Suff w/o Lat.	12	550984	courageous	1.0	0.0	False
+552.034	0.0	2Suff RealStemNW	25	552034	voyeurional	0.0	1.0	False
+552.985	0.0	2Suff PseudoStemNW	24	552985	grearively	0.0	1.0	False
+554.635	0.0	2Suff w/ Lat.	21	554635	effectiveness	1.0	0.0	False
+555.702	0.0	2Suff w/o Lat.	22	555702	respectively	1.0	0.0	False
+556.769	0.0	2Suff w/o Lat.	22	556769	stylistic	1.0	1.0	True
+558.545	0.0	0Suff w/o Lat.	2	558545	noise	1.0	0.0	False
+559.47	0.0	0Suff w/o Lat.	2	559470	clinic	1.0	0.0	False
+560.42	0.0	2Suff RealStemNW	25	560420	noisery	0.0	0.0	True
+561.254	0.0	2Suff Composite	23	561254	annexation	1.0	0.0	False
+562.479	0.0	0Suff NW	4	562479	blunk	0.0	1.0	False
+563.721	0.0	0Suff NW	4	563721	ewils	0.0	1.0	False
+564.73	0.0	2Suff Composite	23	564730	victimization	1.0	0.0	False
+566.189	0.0	2Suff w/o Lat.	22	566189	expansiveness	1.0	0.0	False
+568.423	0.0	1Suff w/o Lat.	12	568423	artist	1.0	0.0	False
+569.273	0.0	1Suff RealStemNW	15	569273	needable	0.0	0.0	True
+570.307	0.0	0Suff w/o Lat.	2	570307	need	1.0	0.0	False
+571.29	0.0	0Suff NW	4	571290	ind	0.0	1.0	False
+573.083	0.0	1Suff w/o Lat.	12	573083	joyous	1.0	0.0	False
+574.483	0.0	0Suff w/o Lat.	2	574483	style	1.0	0.0	False
+575.342	0.0	2Suff PseudoStemNW	24	575342	patudation	0.0	1.0	False
+576.517	0.0	0Suff w/ Lat.	1	576517	presume	1.0	0.0	False
+577.451	0.0	1Suff PseudoStemNW	14	577451	mymbolic	0.0	1.0	False
+578.501	0.0	2Suff RealStemNW	25	578501	identifilessly	0.0	1.0	False
+580.41	0.0	1Suff w/o Lat.	12	580410	tactical	1.0	0.0	False
+581.435	0.0	0Suff w/o Lat.	2	581435	magic	1.0	0.0	False
+582.344	0.0	1Suff w/o Lat.	12	582344	sensible	1.0	0.0	False
+583.302	0.0	0Suff w/o Lat.	2	583302	joy	1.0	0.0	False
+584.194	0.0	2Suff PseudoStemNW	24	584194	efforniveness	0.0	1.0	False
+585.378	0.0	2Suff PseudoStemNW	24	585378	herfalist	0.0	1.0	False
+586.412	0.0	2Suff w/o Lat.	22	586412	comically	1.0	0.0	False
+587.429	0.0	0Suff w/o Lat.	2	587429	critic	1.0	0.0	False
+588.454	0.0	2Suff Composite	23	588454	nullification	1.0	0.0	False
+589.688	0.0	1Suff RealStemNW	15	589688	truthive	0.0	0.0	True
+590.638	0.0	0Suff NW	4	590638	healt	0.0	1.0	False
+591.697	0.0	2Suff RealStemNW	25	591697	excessfully	0.0	0.0	True
+592.589	0.0	1Suff w/o Lat.	12	592589	broker	1.0	0.0	False
+593.681	0.0	0Suff NW	4	593681	movect	0.0	1.0	False
+594.739	0.0	1Suff w/o Lat.	12	594739	lucky	1.0	0.0	False
+595.59	0.0	2Suff w/o Lat.	22	595590	fortunately	1.0	0.0	False
+596.59	0.0	0Suff w/o Lat.	2	596590	continue	1.0	0.0	False
+597.44	0.0	2Suff RealStemNW	25	597440	virtuerize	0.0		False
+599.833	0.0	0Suff w/ Lat.	1	599833	institute	1.0	0.0	False
+600.741	0.0	1Suff w/ Lat.	11	600741	perfection	1.0	0.0	False
+601.633	0.0	1Suff PseudoStemNW	14	601633	janiable	0.0	1.0	False
+602.692	0.0	1Suff w/o Lat.	12	602692	traditional	1.0	0.0	False
+603.617	0.0	0Suff NW	4	603617	gried	0.0	1.0	False
+604.892	0.0	1Suff RealStemNW	15	604892	momentish	0.0	0.0	True
+605.934	0.0	1Suff PseudoStemNW	14	605934	coyimal	0.0	1.0	False
+606.935	0.0	0Suff NW	4	606935	nead	0.0	1.0	False
+608.193	0.0	1Suff w/o Lat.	12	608193	justify	1.0	0.0	False
+609.235	0.0	0Suff w/o Lat.	2	609235	create	1.0	0.0	False
+610.186	0.0	1Suff PseudoStemNW	14	610186	seetable	0.0	1.0	False
+627.799	0.0	0Suff w/o Lat.	2	627799	nation	1.0	0.0	False
+628.866	0.0	0Suff NW	4	628866	retend	0.0	1.0	False
+630.025	0.0	2Suff w/o Lat.	22	630025	personalize	1.0	0.0	False
+630.975	0.0	1Suff PseudoStemNW	14	630975	selvible	0.0	1.0	False
+632.326	0.0	0Suff w/o Lat.	2	632326	dread	1.0	0.0	False
+633.201	0.0	0Suff NW	4	633201	cuppom	0.0	1.0	False
+634.235	0.0	0Suff NW	4	634235	jist	0.0	1.0	False
+635.202	0.0	2Suff w/o Lat.	22	635202	methodically	1.0	0.0	False
+636.427	0.0	2Suff w/o Lat.	22	636427	continually	1.0	0.0	False
+637.302	0.0	0Suff w/o Lat.	2	637302	self	1.0	0.0	False
+638.161	0.0	1Suff PseudoStemNW	14	638161	herfal	0.0	1.0	False
+639.236	0.0	2Suff w/ Lat.	21	639236	composition	1.0	0.0	False
+640.145	0.0	0Suff w/o Lat.	2	640145	optic	1.0	0.0	False
+641.12	0.0	0Suff NW	4	641120	indlidst	0.0	1.0	False
+642.129	0.0	2Suff RealStemNW	25	642129	excellalism	0.0	1.0	False
+643.254	0.0	1Suff w/o Lat.	12	643254	feverish	1.0	0.0	False
+644.229	0.0	0Suff w/o Lat.	2	644229	flex	1.0	0.0	False
+645.18	0.0	2Suff w/o Lat.	22	645180	dreadfully	1.0	0.0	False
+646.163	0.0	0Suff w/o Lat.	2	646163	modern	1.0	0.0	False
+647.014	0.0	1Suff RealStemNW	15	647014	falsant	0.0	1.0	False
+648.006	0.0	0Suff NW	4	648006	colliff	0.0	1.0	False
+648.989	0.0	2Suff RealStemNW	25	648989	lustery	0.0	1.0	False
+649.998	0.0	0Suff w/o Lat.	2	649998	power	1.0	0.0	False
+650.89	0.0	2Suff Composite	23	650890	allegorical	1.0	1.0	True
+652.107	0.0	1Suff w/o Lat.	12	652107	helpless	1.0	0.0	False
+653.041	0.0	2Suff RealStemNW	25	653041	breathiously	0.0	0.0	True
+655.099	0.0	2Suff w/o Lat.	22	655099	loneliness	1.0	0.0	False
+655.975	0.0	1Suff PseudoStemNW	14	655975	precukable	0.0	1.0	False
+657.017	0.0	0Suff NW	4	657017	massien	0.0	1.0	False
+658.109	0.0	1Suff PseudoStemNW	14	658109	jokful	0.0	1.0	False
+659.092	0.0	2Suff RealStemNW	25	659092	commerceantly	0.0	1.0	False
+660.643	0.0	1Suff RealStemNW	15	660643	kinden	0.0	1.0	False
+661.652	0.0	2Suff w/o Lat.	22	661652	brokerage	1.0	0.0	False
+663.185	0.0	2Suff PseudoStemNW	24	663185	prosodural	0.0	1.0	False
+664.311	0.0	0Suff NW	4	664311	cronition	0.0	1.0	False
+665.686	0.0	0Suff NW	4	665686	ceant	0.0	1.0	False
+666.62	0.0	2Suff RealStemNW	25	666620	synchronilessly	0.0	1.0	False
+668.729	0.0	2Suff w/o Lat.	22	668729	customarily	1.0	0.0	False
+670.171	0.0	1Suff w/o Lat.	12	670171	dangerous	1.0	0.0	False
+671.088	0.0	0Suff w/o Lat.	2	671088	lone	1.0	0.0	False
+672.271	0.0	0Suff NW	4	672271	victap	0.0	1.0	False
+673.78	0.0	2Suff RealStemNW	25	673780	useiveness	0.0	0.0	True
+675.372	0.0	1Suff PseudoStemNW	14	675372	bleadful	0.0	0.0	True
+676.289	0.0	1Suff w/o Lat.	12	676289	prophetic	1.0	0.0	False
+677.356	0.0	0Suff w/o Lat.	2	677356	prefer	1.0	0.0	False
+678.273	0.0	1Suff RealStemNW	15	678273	merciable	0.0	0.0	True
+679.54	0.0	0Suff w/o Lat.	2	679540	fertile	1.0	0.0	False
+680.457	0.0	2Suff RealStemNW	25	680457	causional	0.0	0.0	True
+681.574	0.0	2Suff w/o Lat.	22	681574	courageously	1.0	0.0	False
+682.541	0.0	0Suff w/o Lat.	2	682541	compare	1.0	0.0	False
+683.433	0.0	1Suff PseudoStemNW	14	683433	selveless	0.0	0.0	True
+684.409	0.0	1Suff w/o Lat.	12	684409	methodical	1.0	0.0	False
+685.425	0.0	1Suff w/o Lat.	12	685425	attentive	1.0	0.0	False
+686.309	0.0	2Suff w/o Lat.	22	686309	ceaselessly	1.0	0.0	False
+687.468	0.0	1Suff PseudoStemNW	14	687468	expredive	0.0		False
+689.877	0.0	1Suff RealStemNW	15	689877	variment	0.0	1.0	False
+691.386	0.0	2Suff PseudoStemNW	24	691386	comberatively	0.0	1.0	False
+692.486	0.0	1Suff PseudoStemNW	14	692486	lumsy	0.0	1.0	False
+693.695	0.0	2Suff Composite	23	693695	probation	1.0	0.0	False
+694.812	0.0	1Suff PseudoStemNW	14	694812	exfallent	0.0	1.0	False
+695.779	0.0	1Suff w/o Lat.	12	695779	noticeable	1.0	0.0	False
+696.812	0.0	2Suff w/o Lat.	22	696812	justification	1.0	0.0	False
+697.771	0.0	2Suff w/o Lat.	22	697771	ownership	1.0	0.0	False
+698.655	0.0	2Suff PseudoStemNW	24	698655	arbumentative	0.0	1.0	False
+699.98	0.0	0Suff w/o Lat.	2	699980	slip	1.0	0.0	False
+700.964	0.0	2Suff RealStemNW	25	700964	couragliness	0.0	1.0	False
+702.231	0.0	1Suff PseudoStemNW	14	702231	desterful	0.0	1.0	False
+703.198	0.0	1Suff w/o Lat.	12	703198	dreadful	1.0	0.0	False
+704.181	0.0	0Suff w/o Lat.	2	704181	excel	1.0	0.0	False
+705.207	0.0	1Suff PseudoStemNW	14	705207	recrernive	0.0	1.0	False
+706.232	0.0	0Suff w/ Lat.	1	706232	conduct	1.0	0.0	False
+707.116	0.0	2Suff RealStemNW	25	707116	prophetionist	0.0	1.0	False
+708.066	0.0	1Suff w/o Lat.	12	708066	herbal	1.0	0.0	False
+709.074	0.0	0Suff w/o Lat.	2	709074	fortune	1.0	0.0	False
+710.133	0.0	0Suff w/o Lat.	2	710133	act	1.0	0.0	False
+711.025	0.0	2Suff PseudoStemNW	24	711025	mocondarily	0.0	1.0	False
+712.025	0.0	2Suff Composite	23	712025	filtration	1.0	0.0	False
+713.384	0.0	2Suff Composite	23	713384	vulgarization	1.0	0.0	False
+714.501	0.0	0Suff NW	4	714501	inflise	0.0	1.0	False
+715.651	0.0	1Suff w/ Lat.	11	715651	expression	1.0	0.0	False
+716.627	0.0	2Suff RealStemNW	25	716627	actfully	0.0	0.0	True
+717.594	0.0	2Suff w/o Lat.	22	717594	rightfully	1.0	0.0	False
+718.527	0.0	1Suff RealStemNW	15	718527	noticeless	0.0	0.0	True
+719.411	0.0	0Suff NW	4	719411	meleft	0.0	1.0	False
+720.57	0.0	1Suff RealStemNW	15	720570	assertful	0.0	0.0	True
+721.845	0.0	2Suff RealStemNW	25	721845	stylional	0.0	1.0	False
+723.771	0.0	1Suff w/o Lat.	12	723771	righteous	1.0	0.0	False
+725.029	0.0	2Suff RealStemNW	25	725029	suitfulness	0.0	1.0	False
+726.171	0.0	0Suff w/o Lat.	2	726171	region	1.0	0.0	False
+727.505	0.0	2Suff PseudoStemNW	24	727505	conwodential	0.0	1.0	False
+728.489	0.0	2Suff RealStemNW	25	728489	neediously	0.0	1.0	False
+730.148	0.0	2Suff RealStemNW	25	730148	selfiveness	0.0	1.0	False
+731.381	0.0	0Suff w/o Lat.	2	731381	person	1.0	0.0	False
+732.257	0.0	2Suff w/o Lat.	22	732257	selectivity	1.0	0.0	False
+733.148	0.0	1Suff w/o Lat.	12	733148	lonely	1.0	0.0	False
+734.107	0.0	1Suff PseudoStemNW	14	734107	movectize	0.0	1.0	False
+735.166	0.0	0Suff w/o Lat.	2	735166	civil	1.0	0.0	False
+736.199	0.0	2Suff RealStemNW	25	736199	expansishness	0.0	1.0	False
+738.108	0.0	0Suff NW	4	738108	coatage	0.0	1.0	False
+739.084	0.0	1Suff w/o Lat.	12	739084	comfortable	1.0	0.0	False
+740.026	0.0	2Suff Composite	23	740026	computation	1.0	0.0	False
+741.134	0.0	1Suff w/o Lat.	12	741134	senseless	1.0	0.0	False
+742.268	0.0	2Suff RealStemNW	25	742268	objectfully	0.0	0.0	True
+743.21	0.0	2Suff w/o Lat.	22	743210	significance	1.0	0.0	False
+744.21	0.0	2Suff RealStemNW	25	744210	sensfulness	0.0	0.0	True
+745.294	0.0	0Suff NW	4	745294	cank	0.0	1.0	False
+746.353	0.0	2Suff RealStemNW	25	746353	hierarchally	0.0	0.0	True
+747.453	0.0	1Suff RealStemNW	15	747453	mercyive	0.0	1.0	False
+748.528	0.0	1Suff w/o Lat.	12	748528	vaccinate	1.0	0.0	False
+749.554	0.0	1Suff w/o Lat.	12	749554	critical	1.0	0.0	False
+750.596	0.0	2Suff RealStemNW	25	750596	nationical	0.0	0.0	True
+751.646	0.0	1Suff RealStemNW	15	751646	flexless	0.0	1.0	False
+753.088	0.0	2Suff RealStemNW	25	753088	signmentive	0.0	1.0	False
+754.722	0.0	0Suff NW	4	754722	exfapt	0.0	1.0	False
+756.156	0.0	2Suff w/o Lat.	22	756156	nationalism	1.0	0.0	False
+757.314	0.0	2Suff RealStemNW	25	757314	criticical	0.0	1.0	False
+758.673	0.0	2Suff w/o Lat.	22	758673	collectively	1.0	0.0	False
+759.79	0.0	1Suff w/o Lat.	12	759790	excellent	1.0	0.0	False
+760.715	0.0	1Suff RealStemNW	15	760715	provisate	0.0	1.0	False
+779.354	0.0	1Suff w/o Lat.	12	779354	modernize	1.0	0.0	False
+780.696	0.0	2Suff w/o Lat.	22	780696	nationalist	1.0	0.0	False
+781.68	0.0	1Suff w/o Lat.	12	781680	optical	1.0	0.0	False
+782.58	0.0	2Suff w/o Lat.	22	782580	kindliness	1.0	0.0	False
+783.422	0.0	1Suff PseudoStemNW	14	783422	arbument	0.0	1.0	False
+784.456	0.0	1Suff RealStemNW	15	784456	justant	0.0	1.0	False
+785.59	0.0	0Suff NW	4	785590	loke	0.0	1.0	False
+786.482	0.0	2Suff w/ Lat.	21	786482	perfectionism	1.0	0.0	False
+787.74	0.0	0Suff NW	4	787740	simn	0.0	1.0	False
+788.716	0.0	2Suff PseudoStemNW	24	788716	canklessly	0.0	1.0	False
+789.674	0.0	1Suff PseudoStemNW	14	789674	healty	0.0	1.0	False
+790.991	0.0	1Suff PseudoStemNW	14	790991	simnify	0.0	1.0	False
+792.167	0.0	2Suff RealStemNW	25	792167	brutional	0.0	1.0	False
+793.467	0.0	0Suff NW	4	793467	lurtile	0.0	1.0	False
+794.409	0.0	2Suff w/o Lat.	22	794409	causality	1.0	0.0	False
+795.768	0.0	0Suff w/o Lat.	2	795768	brute	1.0	0.0	False
+797.135	0.0	0Suff w/o Lat.	2	797135	relent	1.0	1.0	True
+798.202	0.0	2Suff w/o Lat.	22	798202	lustily	1.0	1.0	True
+800.111	0.0	1Suff w/o Lat.	12	800111	hasty	1.0	0.0	False
+801.269	0.0	1Suff w/o Lat.	12	801269	national	1.0	0.0	False
+802.253	0.0	0Suff NW	4	802253	elpard	0.0	1.0	False
+803.295	0.0	2Suff w/o Lat.	22	803295	activist	1.0	0.0	False
+804.229	0.0	1Suff PseudoStemNW	14	804229	griedy	0.0	1.0	False
+805.496	0.0	2Suff PseudoStemNW	24	805496	movectistic	0.0	1.0	False
+806.529	0.0	0Suff w/ Lat.	1	806529	express	1.0	0.0	False
+807.521	0.0	0Suff NW	4	807521	traphet	0.0	1.0	False
+808.538	0.0	0Suff w/o Lat.	2	808538	drunk	1.0	0.0	False
+809.447	0.0	2Suff PseudoStemNW	24	809447	feamfully	0.0	1.0	False
+810.439	0.0	1Suff w/o Lat.	12	810439	creative	1.0	0.0	False
+811.414	0.0	1Suff PseudoStemNW	14	811414	flivitual	0.0	1.0	False
+812.381	0.0	2Suff RealStemNW	25	812381	instinctfully	0.0	0.0	True
+813.381	0.0	2Suff PseudoStemNW	24	813381	rinchfully	0.0	1.0	False
+814.865	0.0	1Suff w/o Lat.	12	814865	preferable	1.0	0.0	False
+815.891	0.0	0Suff w/o Lat.	2	815891	end	1.0	0.0	False
+817.016	0.0	2Suff Composite	23	817016	ordination	1.0	1.0	True
+818.867	0.0	1Suff w/o Lat.	12	818867	classic	1.0	0.0	False
+819.8	0.0	1Suff w/o Lat.	12	819800	breathless	1.0	0.0	False
+820.65	0.0	0Suff w/ Lat.	1	820650	exclude	1.0	0.0	False
+821.534	0.0	1Suff RealStemNW	15	821534	cyclal	0.0	1.0	False
+822.601	0.0	2Suff PseudoStemNW	24	822601	hettlessness	0.0	1.0	False
+823.668	0.0	0Suff w/o Lat.	2	823668	own	1.0	0.0	False
+824.577	0.0	0Suff NW	4	824577	rebuin	0.0	1.0	False
+825.56	0.0	2Suff w/ Lat.	21	825560	expressionism	1.0	0.0	False
+826.502	0.0	2Suff PseudoStemNW	24	826502	rincheousness	0.0	1.0	False
+827.503	0.0	1Suff w/o Lat.	12	827503	active	1.0	0.0	False
+828.361	0.0	1Suff PseudoStemNW	14	828361	rebuinal	0.0	1.0	False
+829.478	0.0	1Suff PseudoStemNW	14	829478	londly	0.0	1.0	False
+830.462	0.0	2Suff w/o Lat.	22	830462	secondarily	1.0	0.0	False
+831.629	0.0	2Suff w/o Lat.	22	831629	feverishly	1.0	0.0	False
+832.612	0.0	0Suff w/o Lat.	2	832612	tire	1.0	0.0	False
+833.896	0.0	1Suff RealStemNW	15	833896	passionion	0.0	1.0	False
+835.063	0.0	0Suff NW	4	835063	assork	0.0	1.0	False
+836.038	0.0	2Suff RealStemNW	25	836038	tacticical	0.0	1.0	False
+837.697	0.0	2Suff PseudoStemNW	24	837697	jistifiable	0.0	0.0	True
+838.981	0.0	2Suff w/ Lat.	21	838981	conductivity	1.0	0.0	False
+839.923	0.0	2Suff RealStemNW	25	839923	selfiousness	0.0	1.0	False
+841.132	0.0	2Suff Composite	23	841132	penalization	1.0	0.0	False
+842.465	0.0	2Suff w/o Lat.	22	842465	beautifully	1.0	0.0	False
+843.341	0.0	0Suff NW	4	843341	sarument	0.0	1.0	False
+844.383	0.0	2Suff PseudoStemNW	24	844383	healtily	0.0	1.0	False
+845.892	0.0	1Suff w/o Lat.	12	845892	beautiful	1.0	0.0	False
+846.8	0.0	2Suff PseudoStemNW	24	846800	lokeliness	0.0	1.0	False
+847.975	0.0	2Suff PseudoStemNW	24	847975	pogularization	0.0	1.0	False
+849.092	0.0	0Suff NW	4	849092	arp	0.0	1.0	False
+850.143	0.0	2Suff w/o Lat.	22	850143	optically	1.0	0.0	False
+851.135	0.0	2Suff w/o Lat.	22	851135	selectively	1.0	0.0	False
+852.077	0.0	2Suff w/o Lat.	22	852077	suitably	1.0	0.0	False
+853.027	0.0	1Suff w/o Lat.	12	853027	drunken	1.0	0.0	False
+853.969	0.0	1Suff RealStemNW	15	853969	purant	0.0	1.0	False
+855.528	0.0	0Suff NW	4	855528	combore	0.0	1.0	False
+856.545	0.0	0Suff w/o Lat.	2	856545	spirit	1.0	1.0	True
+857.42	0.0	0Suff NW	4	857420	pums	0.0	1.0	False
+858.437	0.0	0Suff NW	4	858437	mympol	0.0	1.0	False
+859.379	0.0	2Suff w/o Lat.	22	859379	truthfulness	1.0	0.0	False
+860.354	0.0	2Suff PseudoStemNW	24	860354	eschessionist	0.0	1.0	False
+861.363	0.0	0Suff NW	4	861363	haint	0.0	1.0	False
+862.63	0.0	1Suff PseudoStemNW	14	862630	brukal	0.0	1.0	False
+863.58	0.0	2Suff RealStemNW	25	863580	brokiness	0.0	1.0	False
+864.689	0.0	2Suff RealStemNW	25	864689	unifilessly	0.0	1.0	False
+865.681	0.0	1Suff w/o Lat.	12	865681	purify	1.0	0.0	False
+866.656	0.0	1Suff w/o Lat.	12	866656	powerful	1.0	0.0	False
+867.748	0.0	2Suff w/ Lat.	21	867748	effectively	1.0	0.0	False
+868.857	0.0	2Suff PseudoStemNW	24	868857	flivitualism	0.0	1.0	False
+870.057	0.0	1Suff w/o Lat.	12	870057	existence	1.0	0.0	False
+870.974	0.0	2Suff RealStemNW	25	870974	nullifilessly	0.0	0.0	True
+872.175	0.0	2Suff Composite	23	872175	paradoxical	1.0	0.0	False
+873.325	0.0	0Suff w/o Lat.	2	873325	respect	1.0	0.0	False
+874.275	0.0	1Suff RealStemNW	15	874275	conclusful	0.0	0.0	True
+875.292	0.0	0Suff NW	4	875292	obwert	0.0	1.0	False
+876.309	0.0	1Suff w/o Lat.	12	876309	foolish	1.0	0.0	False
+877.226	0.0	2Suff PseudoStemNW	24	877226	gunderfully	0.0	1.0	False
+878.226	0.0	0Suff NW	4	878226	conwode	0.0	1.0	False
+879.535	0.0	2Suff RealStemNW	25	879535	drunkoral	0.0	1.0	False
+880.561	0.0	2Suff RealStemNW	25	880561	humanional	0.0	0.0	True
+881.703	0.0	2Suff PseudoStemNW	24	881703	fipitation	0.0	1.0	False
+882.995	0.0	0Suff NW	4	882995	inglinite	0.0	1.0	False
+883.995	0.0	1Suff w/o Lat.	12	883995	truthful	1.0	0.0	False
+884.987	0.0	0Suff w/o Lat.	2	884987	fear	1.0	0.0	False
+885.87	0.0	1Suff RealStemNW	15	885870	institutate	0.0	0.0	True
+886.921	0.0	2Suff w/o Lat.	22	886921	commercialize	1.0	0.0	False
+887.904	0.0	1Suff w/o Lat.	12	887904	wonderful	1.0	0.0	False
+888.813	0.0	2Suff w/o Lat.	22	888813	helplessly	1.0	0.0	False
+889.763	0.0	2Suff RealStemNW	25	889763	selectously	0.0	1.0	False
+891.197	0.0	1Suff w/o Lat.	12	891197	stylist	1.0	0.0	False
+892.181	0.0	2Suff w/o Lat.	22	892181	selfishness	1.0	0.0	False
+893.123	0.0	0Suff w/o Lat.	2	893123	sign	1.0	0.0	False
+893.973	0.0	1Suff w/o Lat.	12	893973	modernist	1.0	0.0	False
+894.848	0.0	1Suff w/o Lat.	12	894848	causal	1.0	0.0	False
+895.749	0.0	2Suff w/o Lat.	22	895749	assertiveness	1.0	0.0	False
+897.099	0.0	0Suff NW	4	897099	selve	0.0	0.0	True
+898.033	0.0	1Suff PseudoStemNW	14	898033	vetcinate	0.0	1.0	False
+899.5	0.0	2Suff w/o Lat.	22	899500	noticeably	1.0	0.0	False
+900.45	0.0	2Suff w/o Lat.	22	900450	spiritualism	1.0	0.0	False
+901.559	0.0	2Suff RealStemNW	25	901559	computitely	0.0	1.0	False
+903.876	0.0	1Suff w/o Lat.	12	903876	lusty	1.0	0.0	False
+905.335	0.0	2Suff PseudoStemNW	24	905335	shactener	0.0	1.0	False
+907.344	0.0	1Suff w/o Lat.	12	907344	commercial	1.0	0.0	False
+908.186	0.0	2Suff w/o Lat.	22	908186	helpfully	1.0	0.0	False
+909.094	0.0	1Suff w/o Lat.	12	909094	assertive	1.0	0.0	False
+923.14	0.0	0Suff w/o Lat.	2	923140	cycle	1.0	0.0	False
+924.191	0.0	2Suff PseudoStemNW	24	924191	colliffively	0.0	1.0	False
+925.691	0.0	0Suff w/o Lat.	2	925691	love	1.0	0.0	False
+926.641	0.0	1Suff w/o Lat.	12	926641	admirable	1.0	0.0	False
+927.575	0.0	1Suff RealStemNW	15	927575	composian	0.0	1.0	False
+929.367	0.0	2Suff PseudoStemNW	24	929367	mourdfully	0.0	1.0	False
+930.618	0.0	2Suff PseudoStemNW	24	930618	perfallionism	0.0	1.0	False
+931.676	0.0	1Suff PseudoStemNW	14	931676	omlical	0.0	1.0	False
+932.618	0.0	2Suff RealStemNW	25	932618	dergadfully	0.0	1.0	False
+933.51	0.0	2Suff RealStemNW	25	933510	clinicical	0.0	1.0	False
+935.069	0.0	0Suff NW	4	935069	precuke	0.0	1.0	False
+935.969	0.0	2Suff w/o Lat.	22	935969	personality	1.0	0.0	False
+937.078	0.0	2Suff RealStemNW	25	937078	presumator	0.0	1.0	False
+938.22	0.0	2Suff w/o Lat.	22	938220	suitability	1.0	0.0	False
+939.387	0.0	0Suff NW	4	939387	feal	0.0	1.0	False
+940.437	0.0	2Suff PseudoStemNW	24	940437	comburation	0.0	1.0	False
+941.529	0.0	0Suff NW	4	941529	onnend	0.0	1.0	False
+942.396	0.0	0Suff w/o Lat.	2	942396	compute	1.0	0.0	False
+943.713	0.0	2Suff Composite	23	943713	whimsical	1.0	0.0	False
+945.03	0.0	0Suff NW	4	945030	pacic	0.0	1.0	False
+946.031	0.0	2Suff Composite	23	946031	secularization	1.0	0.0	False
+947.865	0.0	1Suff w/ Lat.	11	947865	provision	1.0	0.0	False
+948.907	0.0	0Suff w/o Lat.	2	948907	FALSE	1.0	0.0	False
+949.757	0.0	0Suff w/o Lat.	2	949757	select	1.0	0.0	False
+950.599	0.0	1Suff w/o Lat.	12	950599	passionate	1.0	0.0	False
+951.491	0.0	2Suff RealStemNW	25	951491	effortiously	0.0	1.0	False
+952.741	0.0	2Suff PseudoStemNW	24	952741	perfallionist	0.0	1.0	False
+953.858	0.0	1Suff w/o Lat.	12	953858	fearful	1.0	0.0	False
+954.8	0.0	2Suff w/o Lat.	22	954800	tactically	1.0	0.0	False
+955.984	0.0	2Suff Composite	23	955984	classification	1.0	0.0	False
+956.917	0.0	2Suff RealStemNW	25	956917	noticeator	0.0	1.0	False
+958.193	0.0	0Suff NW	4	958193	podent	0.0	1.0	False
+959.185	0.0	0Suff w/o Lat.	2	959185	breath	1.0	0.0	False
+960.093	0.0	2Suff w/o Lat.	22	960093	carelessly	1.0	0.0	False
+961.019	0.0	2Suff PseudoStemNW	24	961019	tistlessly	0.0	1.0	False
+962.077	0.0	1Suff w/o Lat.	12	962077	victimize	1.0	0.0	False
+962.986	0.0	2Suff w/o Lat.	22	962986	joyously	1.0	0.0	False
+964.678	0.0	2Suff PseudoStemNW	24	964678	pipsonalize	0.0	1.0	False
+966.028	0.0	2Suff w/ Lat.	21	966028	conclusively	1.0	0.0	False
+967.07	0.0	1Suff w/ Lat.	11	967070	objection	1.0	0.0	False
+968.021	0.0	2Suff w/o Lat.	22	968021	modulation	1.0	1.0	True
+969.138	0.0	1Suff w/o Lat.	12	969138	careful	1.0	0.0	False
+970.03	0.0	1Suff RealStemNW	15	970030	tireable	0.0	0.0	True
+971.68	0.0	0Suff w/o Lat.	2	971680	vary	1.0	0.0	False
+973.414	0.0	1Suff w/o Lat.	12	973414	hearty	1.0	1.0	True
+974.581	0.0	2Suff w/o Lat.	22	974581	classical	1.0	0.0	False
+975.515	0.0	2Suff PseudoStemNW	24	975515	cutfurally	0.0	1.0	False
+977.049	0.0	2Suff RealStemNW	25	977049	endiously	0.0	1.0	False
+978.107	0.0	0Suff w/ Lat.	1	978107	intend	1.0	0.0	False
+979.116	0.0	2Suff w/o Lat.	22	979116	attentively	1.0	0.0	False
+980.158	0.0	2Suff PseudoStemNW	24	980158	blunkenness	0.0	1.0	False
+981.708	0.0	2Suff w/o Lat.	22	981708	comfortably	1.0	0.0	False
+982.65	0.0	2Suff PseudoStemNW	24	982650	inglinitional	0.0	1.0	False
+983.684	0.0	2Suff PseudoStemNW	24	983684	awnfully	0.0	1.0	False
+984.768	0.0	0Suff NW	4	984768	seet	0.0	1.0	False
+985.701	0.0	2Suff RealStemNW	25	985701	industriantly	0.0	1.0	False
+987.71	0.0	2Suff PseudoStemNW	24	987710	kibsliness	0.0	1.0	False
+988.644	0.0	0Suff w/o Lat.	2	988644	haste	1.0	1.0	True
+989.536	0.0	0Suff NW	4	989536	lond	0.0	1.0	False
+990.611	0.0	2Suff RealStemNW	25	990611	inspiratality	0.0	1.0	False
+991.678	0.0	1Suff PseudoStemNW	14	991678	rincheous	0.0	1.0	False
+992.712	0.0	2Suff PseudoStemNW	24	992712	procation	0.0	1.0	False
+993.754	0.0	1Suff w/o Lat.	12	993754	masterful	1.0	0.0	False
+994.862	0.0	0Suff NW	4	994862	connurt	0.0	1.0	False
+995.813	0.0	1Suff PseudoStemNW	14	995813	cutfural	0.0	1.0	False
+996.888	0.0	1Suff w/o Lat.	12	996888	abolition	1.0	0.0	False
+998.405	0.0	2Suff w/o Lat.	22	998405	nationality	1.0	0.0	False
+999.322	0.0	2Suff w/o Lat.	22	999322	attractively	1.0	0.0	False
+1000.197	0.0	2Suff w/o Lat.	22	1000197	commercialism	1.0	0.0	False
+1001.131	0.0	1Suff w/o Lat.	12	1001131	industrial	1.0	0.0	False
+1002.006	0.0	1Suff PseudoStemNW	14	1002006	traphetic	0.0	1.0	False
+1003.157	0.0	1Suff w/o Lat.	12	1003157	measurable	1.0	0.0	False
+1004.274	0.0	2Suff w/o Lat.	22	1004274	creativity	1.0	0.0	False
+1005.199	0.0	2Suff w/ Lat.	21	1005199	presumably	1.0	0.0	False
+1006.224	0.0	1Suff PseudoStemNW	14	1006224	lokely	0.0		False
+1008.617	0.0	2Suff RealStemNW	25	1008617	alterlessly	0.0	1.0	False
+1010.267	0.0	2Suff w/o Lat.	22	1010267	civilization	1.0	0.0	False
+1011.401	0.0	0Suff NW	4	1011401	cheher	0.0	1.0	False
+1012.543	0.0	1Suff PseudoStemNW	14	1012543	awnful	0.0	1.0	False
+1013.718	0.0	2Suff w/o Lat.	22	1013718	flexibility	1.0	0.0	False
+1014.593	0.0	2Suff PseudoStemNW	24	1014593	movectization	0.0	1.0	False
+1015.719	0.0	2Suff RealStemNW	25	1015719	artional	0.0	0.0	True
+1017.019	0.0	0Suff NW	4	1017019	byvre	0.0	1.0	False
+1017.878	0.0	1Suff RealStemNW	15	1017878	feverory	0.0	1.0	False
+1018.803	0.0	2Suff w/o Lat.	22	1018803	foolishly	1.0	0.0	False
+1019.695	0.0	0Suff NW	4	1019695	faice	0.0	1.0	False
+1020.662	0.0	0Suff NW	4	1020662	combure	0.0	1.0	False
+1021.587	0.0	0Suff w/o Lat.	2	1021587	care	1.0	0.0	False
+1022.537	0.0	0Suff w/o Lat.	2	1022537	passion	1.0	0.0	False
+1023.404	0.0	1Suff RealStemNW	15	1023404	humanify	0.0	0.0	True
+1024.663	0.0	0Suff NW	4	1024663	trith	0.0	1.0	False
+1025.63	0.0	0Suff w/o Lat.	2	1025630	assert	1.0	0.0	False
+1026.53	0.0	2Suff w/o Lat.	22	1026530	creatively	1.0	1.0	True
+1027.456	0.0	0Suff w/o Lat.	2	1027456	art	1.0	0.0	False
+1028.681	0.0	2Suff PseudoStemNW	24	1028681	soripsistic	0.0	1.0	False
+1029.698	0.0	2Suff Composite	23	1029698	hierarchical	1.0	0.0	False
+1030.657	0.0	0Suff w/o Lat.	2	1030657	effort	1.0	0.0	False
+1031.482	0.0	0Suff NW	4	1031482	omlic	0.0	1.0	False
+1032.382	0.0	2Suff w/o Lat.	22	1032382	endlessly	1.0	0.0	False
+1033.241	0.0	1Suff PseudoStemNW	14	1033241	inflisation	0.0	1.0	False
+1034.216	0.0	2Suff Composite	23	1034216	quizzical	1.0	1.0	True
+1035.15	0.0	0Suff NW	4	1035150	vetcine	0.0	1.0	False
+1036.108	0.0	2Suff w/o Lat.	22	1036108	breathlessly	1.0	0.0	False
+1037.017	0.0	2Suff RealStemNW	25	1037017	expressmental	0.0	1.0	False
+1038.426	0.0	2Suff w/o Lat.	22	1038426	modernistic	1.0	0.0	False
+1039.501	0.0	0Suff w/o Lat.	2	1039501	lust	1.0	0.0	False
+1040.476	0.0	1Suff PseudoStemNW	14	1040476	pipsonal	0.0	1.0	False
+1041.443	0.0	0Suff w/ Lat.	1	1041443	excess	1.0	0.0	False
+1042.277	0.0	2Suff RealStemNW	25	1042277	actality	0.0	1.0	False
+1043.369	0.0	2Suff w/o Lat.	22	1043369	passionately	1.0	0.0	False
+1044.319	0.0	1Suff PseudoStemNW	14	1044319	indless	0.0	1.0	False
+1045.303	0.0	0Suff NW	4	1045303	tablic	0.0	0.0	True
+1046.086	0.0	1Suff w/o Lat.	12	1046086	spiritual	1.0	0.0	False
+1047.187	0.0	2Suff RealStemNW	25	1047187	commerceional	0.0	0.0	True
+1048.104	0.0	0Suff w/o Lat.	2	1048104	attract	1.0	0.0	False
+1049.021	0.0	2Suff w/o Lat.	22	1049021	legalization	1.0	0.0	False
+1050.054	0.0	2Suff PseudoStemNW	24	1050054	flivituality	0.0	1.0	False
+1051.071	0.0	0Suff NW	4	1051071	sothod	0.0	1.0	False
+1052.288	0.0	2Suff Composite	23	1052288	purification	1.0	0.0	False
+1099.261	0.0	0Suff NW	4	1099261	styke	0.0	1.0	False
+1100.353	0.0	2Suff Composite	23	1100353	embarkation	1.0	1.0	True
+1101.303	0.0	2Suff Composite	23	1101303	voyeuristic	1.0	1.0	True
+1102.295	0.0	2Suff w/o Lat.	22	1102295	commercially	1.0	0.0	False
+1103.196	0.0	0Suff NW	4	1103196	tist	0.0	1.0	False
+1104.188	0.0	2Suff w/o Lat.	22	1104188	confidential	1.0	0.0	False
+1105.63	0.0	2Suff w/o Lat.	22	1105630	actively	1.0	0.0	False
+1106.547	0.0	1Suff w/o Lat.	12	1106547	brutal	1.0	0.0	False
+1107.43	0.0	0Suff NW	4	1107430	pimer	0.0	1.0	False
+1108.764	0.0	2Suff PseudoStemNW	24	1108764	cladsification	0.0	1.0	False
+1110.79	0.0	2Suff w/o Lat.	22	1110790	procedural	1.0	0.0	False
+1111.832	0.0	1Suff PseudoStemNW	14	1111832	contituous	0.0	1.0	False
+1112.765	0.0	0Suff w/o Lat.	2	1112765	custom	1.0	0.0	False
+1113.732	0.0	0Suff w/o Lat.	2	1113732	class	1.0	0.0	False
+1114.607	0.0	2Suff RealStemNW	25	1114607	intentality	0.0	1.0	False
+1115.599	0.0	1Suff RealStemNW	15	1115599	classal	0.0	0.0	True
+1116.491	0.0	0Suff w/ Lat.	1	1116491	explode	1.0	0.0	False
+1117.467	0.0	1Suff w/o Lat.	12	1117467	variable	1.0	0.0	False
+1118.325	0.0	2Suff RealStemNW	25	1118325	regionical	0.0	1.0	False
+1119.301	0.0	2Suff PseudoStemNW	24	1119301	excrodively	0.0	1.0	False
+1120.318	0.0	0Suff w/o Lat.	2	1120318	beauty	1.0	0.0	False
+1121.209	0.0	0Suff NW	4	1121209	feam	0.0	1.0	False
+1122.185	0.0	0Suff w/o Lat.	2	1122185	legal	1.0	0.0	False
+1123.093	0.0	0Suff w/o Lat.	2	1123093	notice	1.0	0.0	False
+1123.919	0.0	2Suff RealStemNW	25	1123919	quizzally	0.0	1.0	False
+1125.144	0.0	0Suff w/o Lat.	2	1125144	collect	1.0	0.0	False
+1126.703	0.0	0Suff w/o Lat.	2	1126703	second	1.0	0.0	False
+1127.57	0.0	0Suff NW	4	1127570	effern	0.0	1.0	False
+1128.578	0.0	1Suff PseudoStemNW	14	1128578	comfernable	0.0	1.0	False
+1129.829	0.0	0Suff NW	4	1129829	selp	0.0	1.0	False
+1131.154	0.0	1Suff w/ Lat.	11	1131154	institution	1.0	0.0	False
+1132.238	0.0	1Suff PseudoStemNW	14	1132238	arpive	0.0	1.0	False
+1133.188	0.0	0Suff NW	4	1133188	abadill	0.0	1.0	False
+1134.038	0.0	2Suff PseudoStemNW	24	1134038	conspodively	0.0	1.0	False
+1134.989	0.0	1Suff w/o Lat.	12	1134989	joyful	1.0	0.0	False
+1135.997	0.0	2Suff w/o Lat.	22	1135997	admirably	1.0	0.0	False
+1136.998	0.0	0Suff NW	4	1136998	hunen	0.0	1.0	False
+1137.906	0.0	2Suff w/o Lat.	22	1137906	sharpener	1.0	0.0	False
+1139.007	0.0	2Suff RealStemNW	25	1139007	attentfully	0.0	1.0	False
+1140.299	0.0	1Suff RealStemNW	15	1140299	confidious	0.0	1.0	False
+1141.782	0.0	2Suff w/o Lat.	22	1141782	brutalize	1.0	0.0	False
+1142.674	0.0	2Suff w/o Lat.	22	1142674	mercifully	1.0	0.0	False
+1143.658	0.0	0Suff w/o Lat.	2	1143658	sharp	1.0	0.0	False
+1145.85	0.0	0Suff w/o Lat.	2	1145850	symbol	1.0	0.0	False
+1146.667	0.0	0Suff NW	4	1146667	brole	0.0	1.0	False
+1147.851	0.0	2Suff RealStemNW	25	1147851	ordinfully	0.0	1.0	False
+1149.968	0.0	1Suff w/o Lat.	12	1149968	legalize	1.0	0.0	False
+1151.302	0.0	2Suff RealStemNW	25	1151302	loneionist	0.0	1.0	False
+1152.352	0.0	2Suff w/o Lat.	22	1152352	fruitlessly	1.0	0.0	False
+1153.344	0.0	0Suff w/o Lat.	2	1153344	monument	1.0	0.0	False
+1154.411	0.0	2Suff w/ Lat.	21	1154411	inspirational	1.0	0.0	False
+1155.295	0.0	2Suff w/o Lat.	22	1155295	senselessly	1.0	0.0	False
+1156.195	0.0	2Suff Composite	23	1156195	farcical	1.0	1.0	True
+1157.504	0.0	0Suff w/o Lat.	2	1157504	fruit	1.0	0.0	False
+1158.421	0.0	1Suff w/o Lat.	12	1158421	modulate	1.0	0.0	False
+1159.321	0.0	1Suff w/ Lat.	11	1159321	exception	1.0	0.0	False
+1160.163	0.0	0Suff w/o Lat.	2	1160163	mourn	1.0	0.0	False
+1161.163	0.0	1Suff PseudoStemNW	14	1161163	rinchful	0.0	1.0	False
+1162.289	0.0	2Suff w/o Lat.	22	1162289	fertilization	1.0	0.0	False
+1163.172	0.0	2Suff w/o Lat.	22	1163172	usefulness	1.0	0.0	False
+1164.031	0.0	2Suff RealStemNW	25	1164031	commerceical	0.0	0.0	True
+1164.915	0.0	1Suff w/ Lat.	11	1164915	explosive	1.0	0.0	False
+1165.815	0.0	2Suff RealStemNW	25	1165815	respectfully	0.0	0.0	True
+1166.665	0.0	1Suff RealStemNW	15	1166665	exceptate	0.0	1.0	False
+1168.032	0.0	2Suff PseudoStemNW	24	1168032	massienately	0.0	1.0	False
+1169.391	0.0	2Suff PseudoStemNW	24	1169391	contitually	0.0	1.0	False
+1170.483	0.0	0Suff w/o Lat.	2	1170483	confide	1.0	0.0	False
+1171.558	0.0	1Suff RealStemNW	15	1171558	causic	0.0	0.0	True
+1172.417	0.0	1Suff PseudoStemNW	14	1172417	ewilsence	0.0	1.0	False
+1173.609	0.0	0Suff NW	4	1173609	cedil	0.0	1.0	False
+1174.576	0.0	2Suff PseudoStemNW	24	1174576	spippery	0.0	1.0	False
+1175.576	0.0	1Suff w/o Lat.	12	1175576	selective	1.0	0.0	False
+1176.593	0.0	2Suff PseudoStemNW	24	1176593	selvation	0.0	1.0	False
+1178.077	0.0	0Suff w/ Lat.	1	1178077	perfect	1.0	0.0	False
+1178.936	0.0	2Suff PseudoStemNW	24	1178936	mymbolically	0.0	1.0	False
+1180.294	0.0	0Suff NW	4	1180294	esress	0.0	1.0	False
+1181.286	0.0	2Suff RealStemNW	25	1181286	selectfully	0.0	0.0	True
+1182.195	0.0	0Suff NW	4	1182195	navoun	0.0	1.0	False
+1183.262	0.0	2Suff w/ Lat.	21	1183262	exceptional	1.0	0.0	False
+1184.246	0.0	1Suff w/ Lat.	11	1184246	intention	1.0	0.0	False
+1185.263	0.0	2Suff w/o Lat.	22	1185263	carefully	1.0	0.0	False
+1186.229	0.0	1Suff w/o Lat.	12	1186229	secondary	1.0	0.0	False
+1187.121	0.0	2Suff w/o Lat.	22	1187121	continuously	1.0	0.0	False
+1188.163	0.0	0Suff NW	4	1188163	exprede	0.0	1.0	False
+1189.514	0.0	1Suff RealStemNW	15	1189514	careable	0.0	0.0	True
+1190.606	0.0	2Suff w/o Lat.	22	1190606	artfully	1.0	0.0	False
+1191.598	0.0	1Suff w/o Lat.	12	1191598	customary	1.0	0.0	False
+1192.673	0.0	1Suff PseudoStemNW	14	1192673	hainy	0.0	1.0	False
+1193.815	0.0	1Suff RealStemNW	15	1193815	legalist	0.0	0.0	True
+1194.707	0.0	2Suff w/o Lat.	22	1194707	monumentally	1.0	0.0	False
+1195.724	0.0	0Suff NW	4	1195724	mourd	0.0	1.0	False
+1197.216	0.0	2Suff w/o Lat.	22	1197216	vaccination	1.0	0.0	False
+1198.192	0.0	2Suff w/o Lat.	22	1198192	sensuality	1.0	0.0	False
+1199.217	0.0	2Suff w/o Lat.	22	1199217	carelessness	1.0	0.0	False
+1200.459	0.0	1Suff w/o Lat.	12	1200459	ceaseless	1.0	0.0	False
+1201.351	0.0	1Suff w/o Lat.	12	1201351	expansive	1.0	0.0	False
+1202.368	0.0	1Suff w/o Lat.	12	1202368	helpful	1.0	0.0	False
+1203.185	0.0	2Suff w/o Lat.	22	1203185	heartily	1.0	0.0	False
+1204.06	0.0	0Suff NW	4	1204060	sedule	0.0	0.0	True
+1204.86	0.0	2Suff Composite	23	1204860	solidification	1.0	0.0	False
+1205.902	0.0	2Suff PseudoStemNW	24	1205902	foptration	0.0	1.0	False
+1206.928	0.0	2Suff PseudoStemNW	24	1206928	jistification	0.0	0.0	True
+1207.744	0.0	2Suff PseudoStemNW	24	1207744	onwertionable	0.0	1.0	False
+1208.745	0.0	0Suff NW	4	1208745	blead	0.0	0.0	True
+1209.612	0.0	2Suff RealStemNW	25	1209612	classally	0.0	1.0	False
+1210.762	0.0	1Suff PseudoStemNW	14	1210762	moolurable	0.0	1.0	False
+1211.779	0.0	0Suff NW	4	1211779	flivit	0.0	1.0	False
+1212.754	0.0	1Suff w/o Lat.	12	1212754	rightful	1.0	0.0	False
+1213.746	0.0	2Suff w/ Lat.	21	1213746	expressionist	1.0	0.0	False
+1214.755	0.0	0Suff w/o Lat.	2	1214755	argue	1.0	0.0	False
+1215.664	0.0	2Suff w/o Lat.	22	1215664	truthfully	1.0	0.0	False
