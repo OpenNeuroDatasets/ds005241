@@ -18,7 +18,7 @@ onset	duration	trial_type	value	sample	stimulus	is_word	response	correct
 76.641	0.0	2Suff Composite	23	76641	satirical	1.0	0.0	False
 77.692	0.0	2Suff w/o Lat.	22	77692	forgetfulness	1.0	0.0	False
 78.784	0.0	2Suff w/o Lat.	22	78784	fatally	1.0	0.0	False
-79.784	0.0	2Suff RealStemNW	25	79784	differalism	0.0		False
+79.784	0.0	2Suff RealStemNW	25	79784	differalism	0.0	n/a	False
 82.185	0.0	2Suff PseudoStemNW	24	82185	pafferential	0.0	1.0	False
 83.544	0.0	1Suff PseudoStemNW	14	83544	vimidate	0.0	0.0	True
 84.727	0.0	1Suff RealStemNW	15	84727	delightive	0.0	1.0	False
@@ -89,9 +89,9 @@ onset	duration	trial_type	value	sample	stimulus	is_word	response	correct
 160.984	0.0	1Suff w/o Lat.	12	160984	useless	1.0	0.0	False
 161.918	0.0	2Suff PseudoStemNW	24	161918	peadership	0.0	1.0	False
 163.126	0.0	2Suff PseudoStemNW	24	163126	orifadality	0.0	1.0	False
-164.393	0.0	2Suff Composite	23	164393	commutation	1.0		False
+164.393	0.0	2Suff Composite	23	164393	commutation	1.0	n/a	False
 166.786	0.0	0Suff NW	4	166786	dehone	0.0	1.0	False
-167.92	0.0	2Suff RealStemNW	25	167920	orderionist	0.0		False
+167.92	0.0	2Suff RealStemNW	25	167920	orderionist	0.0	n/a	False
 170.329	0.0	2Suff w/o Lat.	22	170329	thoughtfully	1.0	0.0	False
 171.337	0.0	2Suff PseudoStemNW	24	171337	distawksively	0.0	1.0	False
 172.704	0.0	1Suff w/o Lat.	12	172704	useful	1.0	0.0	False
@@ -202,7 +202,7 @@ onset	duration	trial_type	value	sample	stimulus	is_word	response	correct
 329.411	0.0	2Suff w/o Lat.	22	329411	globally	1.0	0.0	False
 330.503	0.0	2Suff w/o Lat.	22	330503	thoughtlessly	1.0	0.0	False
 331.837	0.0	0Suff NW	4	331837	attossin	0.0	1.0	False
-332.987	0.0	1Suff RealStemNW	15	332987	educatate	0.0		False
+332.987	0.0	1Suff RealStemNW	15	332987	educatate	0.0	n/a	False
 335.388	0.0	2Suff PseudoStemNW	24	335388	prebitably	0.0	1.0	False
 337.238	0.0	1Suff w/o Lat.	12	337238	relation	1.0	0.0	False
 338.089	0.0	1Suff w/o Lat.	12	338089	frightful	1.0	0.0	False
@@ -225,7 +225,7 @@ onset	duration	trial_type	value	sample	stimulus	is_word	response	correct
 357.528	0.0	2Suff RealStemNW	25	357528	editionate	0.0	1.0	False
 359.604	0.0	2Suff w/o Lat.	22	359604	racially	1.0	0.0	False
 360.796	0.0	2Suff w/o Lat.	22	360796	substantially	1.0	0.0	False
-362.404	0.0	2Suff PseudoStemNW	24	362404	vefation	0.0		False
+362.404	0.0	2Suff PseudoStemNW	24	362404	vefation	0.0	n/a	False
 364.805	0.0	0Suff NW	4	364805	fleed	0.0	0.0	True
 366.289	0.0	0Suff w/o Lat.	2	366289	fast	1.0	0.0	False
 367.106	0.0	1Suff RealStemNW	15	367106	restable	0.0	0.0	True
@@ -256,7 +256,7 @@ onset	duration	trial_type	value	sample	stimulus	is_word	response	correct
 413.687	0.0	2Suff RealStemNW	25	413687	directality	0.0	1.0	False
 415.562	0.0	0Suff NW	4	415562	moel	0.0	1.0	False
 416.879	0.0	2Suff PseudoStemNW	24	416879	orifadator	0.0	1.0	False
-418.105	0.0	1Suff PseudoStemNW	14	418105	orifadate	0.0		False
+418.105	0.0	1Suff PseudoStemNW	14	418105	orifadate	0.0	n/a	False
 420.506	0.0	1Suff w/o Lat.	12	420506	competitive	1.0	0.0	False
 421.473	0.0	0Suff w/o Lat.	2	421473	agree	1.0	0.0	False
 422.214	0.0	2Suff w/o Lat.	22	422214	essentially	1.0	0.0	False
@@ -457,7 +457,7 @@ onset	duration	trial_type	value	sample	stimulus	is_word	response	correct
 744.305	0.0	1Suff w/o Lat.	12	744305	fasten	1.0	0.0	False
 745.297	0.0	1Suff w/o Lat.	12	745297	intensive	1.0	0.0	False
 746.889	0.0	1Suff PseudoStemNW	14	746889	goulty	0.0	1.0	False
-748.648	0.0	1Suff PseudoStemNW	14	748648	mowthure	0.0		False
+748.648	0.0	1Suff PseudoStemNW	14	748648	mowthure	0.0	n/a	False
 751.041	0.0	2Suff w/o Lat.	22	751041	childishness	1.0	0.0	False
 752.683	0.0	0Suff NW	4	752683	mistile	0.0	1.0	False
 754.167	0.0	0Suff w/o Lat.	2	754167	mobile	1.0	0.0	False
@@ -467,8 +467,8 @@ onset	duration	trial_type	value	sample	stimulus	is_word	response	correct
 758.76	0.0	2Suff RealStemNW	25	758760	fatantly	0.0	0.0	True
 759.693	0.0	0Suff NW	4	759693	atrie	0.0	1.0	False
 760.86	0.0	2Suff w/o Lat.	22	760860	isolationist	1.0	0.0	False
-762.811	0.0	2Suff PseudoStemNW	24	762811	esdybitionism	0.0		False
-765.22	0.0	2Suff PseudoStemNW	24	765220	stumiality	0.0		False
+762.811	0.0	2Suff PseudoStemNW	24	762811	esdybitionism	0.0	n/a	False
+765.22	0.0	2Suff PseudoStemNW	24	765220	stumiality	0.0	n/a	False
 767.629	0.0	2Suff PseudoStemNW	24	767629	snoughtfully	0.0	0.0	True
 769.005	0.0	1Suff RealStemNW	15	769005	familior	0.0	0.0	True
 770.005	0.0	0Suff w/o Lat.	2	770005	origin	1.0	0.0	False
@@ -529,7 +529,7 @@ onset	duration	trial_type	value	sample	stimulus	is_word	response	correct
 883.131	0.0	0Suff NW	4	883131	appigent	0.0	0.0	True
 884.623	0.0	0Suff w/o Lat.	2	884623	intense	1.0	0.0	False
 885.532	0.0	0Suff NW	4	885532	affaid	0.0	0.0	True
-886.499	0.0	2Suff PseudoStemNW	24	886499	awditional	0.0		False
+886.499	0.0	2Suff PseudoStemNW	24	886499	awditional	0.0	n/a	False
 888.9	0.0	2Suff Composite	23	888900	characteristic	1.0	0.0	False
 890.242	0.0	2Suff Composite	23	890242	utilization	1.0	0.0	False
 891.592	0.0	2Suff w/o Lat.	22	891592	nervousness	1.0	0.0	False
@@ -761,7 +761,7 @@ onset	duration	trial_type	value	sample	stimulus	is_word	response	correct
 1204.588	0.0	2Suff w/o Lat.	22	1204588	transitional	1.0	0.0	False
 1205.789	0.0	2Suff w/o Lat.	22	1205789	occasionally	1.0	0.0	False
 1206.839	0.0	2Suff PseudoStemNW	24	1206839	falality	0.0	0.0	True
-1208.273	0.0	2Suff w/o Lat.	22	1208273	gloriously	1.0		False
+1208.273	0.0	2Suff w/o Lat.	22	1208273	gloriously	1.0	n/a	False
 1210.674	0.0	1Suff w/o Lat.	12	1210674	hopeful	1.0	0.0	False
 1211.499	0.0	2Suff RealStemNW	25	1211499	ailistic	0.0	1.0	False
 1212.733	0.0	1Suff w/o Lat.	12	1212733	direction	1.0	0.0	False
@@ -826,7 +826,7 @@ onset	duration	trial_type	value	sample	stimulus	is_word	response	correct
 1283.088	0.0	1Suff PseudoStemNW	14	1283088	coppentate	0.0	1.0	False
 1284.371	0.0	2Suff w/o Lat.	22	1284371	leaderless	1.0	1.0	True
 1286.33	0.0	1Suff w/o Lat.	12	1286330	thicken	1.0	1.0	True
-1287.864	0.0	1Suff RealStemNW	15	1287864	furance	0.0		False
+1287.864	0.0	1Suff RealStemNW	15	1287864	furance	0.0	n/a	False
 1290.256	0.0	0Suff NW	4	1290256	detisms	0.0	1.0	False
 1291.524	0.0	1Suff w/o Lat.	12	1291524	adaptable	1.0	0.0	False
 1292.457	0.0	0Suff w/o Lat.	2	1292457	speed	1.0	0.0	False

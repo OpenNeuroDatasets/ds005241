@@ -24,7 +24,7 @@ onset	duration	trial_type	value	sample	stimulus	is_word	response	correct
 111.983	0.0	0Suff NW	4	111983	pote	0.0	1.0	False
 113.792	0.0	2Suff RealStemNW	25	113792	glorliness	0.0	1.0	False
 115.817	0.0	1Suff PseudoStemNW	14	115817	farsen	0.0	1.0	False
-117.693	0.0	2Suff PseudoStemNW	24	117693	reratively	0.0		False
+117.693	0.0	2Suff PseudoStemNW	24	117693	reratively	0.0	n/a	False
 120.085	0.0	1Suff w/ Lat.	11	120085	affection	1.0	0.0	False
 121.344	0.0	2Suff RealStemNW	25	121344	categorally	0.0	0.0	True
 122.428	0.0	1Suff PseudoStemNW	14	122428	snightful	0.0	1.0	False
@@ -33,10 +33,10 @@ onset	duration	trial_type	value	sample	stimulus	is_word	response	correct
 127.146	0.0	1Suff w/o Lat.	12	127146	friendly	1.0	0.0	False
 128.213	0.0	2Suff PseudoStemNW	24	128213	cunerogially	0.0	1.0	False
 130.105	0.0	2Suff w/o Lat.	22	130105	governmental	1.0	0.0	False
-131.214	0.0	1Suff PseudoStemNW	14	131214	goulty	0.0		False
+131.214	0.0	1Suff PseudoStemNW	14	131214	goulty	0.0	n/a	False
 133.614	0.0	0Suff NW	4	133614	restit	0.0	1.0	False
-135.44	0.0	2Suff RealStemNW	25	135440	affectorship	0.0		False
-137.841	0.0	2Suff PseudoStemNW	24	137841	thashfulness	0.0		False
+135.44	0.0	2Suff RealStemNW	25	135440	affectorship	0.0	n/a	False
+137.841	0.0	2Suff PseudoStemNW	24	137841	thashfulness	0.0	n/a	False
 140.25	0.0	0Suff w/o Lat.	2	140250	market	1.0	0.0	False
 141.375	0.0	1Suff PseudoStemNW	14	141375	appigental	0.0	1.0	False
 143.484	0.0	1Suff w/o Lat.	12	143484	polar	1.0	0.0	False
@@ -60,7 +60,7 @@ onset	duration	trial_type	value	sample	stimulus	is_word	response	correct
 173.052	0.0	2Suff w/o Lat.	22	173052	logically	1.0	0.0	False
 174.102	0.0	2Suff w/o Lat.	22	174102	polarize	1.0	0.0	False
 175.344	0.0	2Suff PseudoStemNW	24	175344	denboderation	0.0	1.0	False
-177.22	0.0	0Suff NW	4	177220	cunerogy	0.0		False
+177.22	0.0	0Suff NW	4	177220	cunerogy	0.0	n/a	False
 179.62	0.0	1Suff w/o Lat.	12	179620	speedy	1.0	0.0	False
 181.271	0.0	0Suff w/ Lat.	1	181271	affect	1.0	0.0	False
 182.371	0.0	0Suff NW	4	182371	eserete	0.0	1.0	False
@@ -71,12 +71,12 @@ onset	duration	trial_type	value	sample	stimulus	is_word	response	correct
 190.457	0.0	1Suff PseudoStemNW	14	190457	degorate	0.0	1.0	False
 192.666	0.0	2Suff w/o Lat.	22	192666	thickener	1.0	0.0	False
 194.333	0.0	0Suff w/o Lat.	2	194333	essence	1.0	0.0	False
-195.45	0.0	0Suff NW	4	195450	snight	0.0		False
-197.859	0.0	0Suff NW	4	197859	coppent	0.0		False
+195.45	0.0	0Suff NW	4	195450	snight	0.0	n/a	False
+197.859	0.0	0Suff NW	4	197859	coppent	0.0	n/a	False
 200.26	0.0	1Suff PseudoStemNW	14	200260	essoilial	0.0	1.0	False
 201.752	0.0	1Suff w/o Lat.	12	201752	dramatic	1.0	0.0	False
 202.827	0.0	2Suff PseudoStemNW	24	202827	artlitackural	0.0	1.0	False
-204.936	0.0	0Suff NW	4	204936	arx	0.0		False
+204.936	0.0	0Suff NW	4	204936	arx	0.0	n/a	False
 207.337	0.0	2Suff w/o Lat.	22	207337	hopelessness	1.0	0.0	False
 208.529	0.0	0Suff NW	4	208529	paft	0.0	1.0	False
 210.421	0.0	1Suff w/o Lat.	12	210421	fatal	1.0	0.0	False
@@ -92,9 +92,9 @@ onset	duration	trial_type	value	sample	stimulus	is_word	response	correct
 225.309	0.0	0Suff NW	4	225309	cossete	0.0	1.0	False
 227.393	0.0	1Suff RealStemNW	15	227393	exhibitate	0.0	0.0	True
 229.186	0.0	2Suff RealStemNW	25	229186	projectliness	0.0	1.0	False
-231.411	0.0	2Suff PseudoStemNW	24	231411	gloofully	0.0		False
+231.411	0.0	2Suff PseudoStemNW	24	231411	gloofully	0.0	n/a	False
 233.812	0.0	1Suff PseudoStemNW	14	233812	uspasional	0.0	1.0	False
-235.688	0.0	2Suff RealStemNW	25	235688	educatality	0.0		False
+235.688	0.0	2Suff RealStemNW	25	235688	educatality	0.0	n/a	False
 238.088	0.0	2Suff w/o Lat.	22	238088	harmlessly	1.0	0.0	False
 239.38	0.0	2Suff Composite	23	239380	satirical	1.0	0.0	False
 240.656	0.0	1Suff w/o Lat.	12	240656	triumphant	1.0	0.0	False
@@ -152,7 +152,7 @@ onset	duration	trial_type	value	sample	stimulus	is_word	response	correct
 323.165	0.0	1Suff w/o Lat.	12	323165	execution	1.0	0.0	False
 324.198	0.0	2Suff w/ Lat.	21	324198	subjectively	1.0	0.0	False
 325.257	0.0	2Suff w/o Lat.	22	325257	hopelessly	1.0	0.0	False
-326.641	0.0	0Suff NW	4	326641	rumic	0.0		False
+326.641	0.0	0Suff NW	4	326641	rumic	0.0	n/a	False
 329.025	0.0	2Suff PseudoStemNW	24	329025	rerational	0.0	1.0	False
 330.633	0.0	1Suff w/ Lat.	11	330633	predictable	1.0	0.0	False
 331.675	0.0	2Suff w/o Lat.	22	331675	frightfully	1.0	0.0	False
@@ -162,7 +162,7 @@ onset	duration	trial_type	value	sample	stimulus	is_word	response	correct
 337.911	0.0	2Suff w/o Lat.	22	337911	mythically	1.0	0.0	False
 338.919	0.0	0Suff NW	4	338919	ippune	0.0	1.0	False
 340.361	0.0	0Suff w/ Lat.	1	340361	instruct	1.0	0.0	False
-341.537	0.0	1Suff RealStemNW	15	341537	immunist	0.0		False
+341.537	0.0	1Suff RealStemNW	15	341537	immunist	0.0	n/a	False
 343.938	0.0	2Suff RealStemNW	25	343938	polioner	0.0	1.0	False
 345.238	0.0	2Suff w/ Lat.	21	345238	exhibitionism	1.0	0.0	False
 346.613	0.0	1Suff RealStemNW	15	346613	considerion	0.0	1.0	False
@@ -182,13 +182,13 @@ onset	duration	trial_type	value	sample	stimulus	is_word	response	correct
 365.177	0.0	1Suff w/o Lat.	12	365177	director	1.0	0.0	False
 366.186	0.0	0Suff w/o Lat.	2	366186	grace	1.0	0.0	False
 367.445	0.0	2Suff RealStemNW	25	367445	orderionist	0.0	1.0	False
-369.329	0.0	0Suff NW	4	369329	subplence	0.0		False
+369.329	0.0	0Suff NW	4	369329	subplence	0.0	n/a	False
 371.729	0.0	0Suff NW	4	371729	fars	0.0	1.0	False
 373.647	0.0	1Suff w/o Lat.	12	373647	thoughtful	1.0	0.0	False
 374.664	0.0	2Suff PseudoStemNW	24	374664	chirdishness	0.0	1.0	False
 376.723	0.0	0Suff NW	4	376723	rhylph	0.0	1.0	False
 378.24	0.0	2Suff w/o Lat.	22	378240	deadliness	1.0	0.0	False
-379.465	0.0	2Suff w/o Lat.	22	379465	isolationism	1.0		False
+379.465	0.0	2Suff w/o Lat.	22	379465	isolationism	1.0	n/a	False
 381.858	0.0	2Suff RealStemNW	25	381858	restiousness	0.0	0.0	True
 383.958	0.0	2Suff w/o Lat.	22	383958	leaderless	1.0	0.0	False
 385.192	0.0	2Suff w/o Lat.	22	385192	confessional	1.0	0.0	False
@@ -203,7 +203,7 @@ onset	duration	trial_type	value	sample	stimulus	is_word	response	correct
 396.32	0.0	2Suff w/o Lat.	22	396320	differential	1.0	0.0	False
 397.412	0.0	2Suff PseudoStemNW	24	397412	nerbousness	0.0	1.0	False
 399.313	0.0	0Suff w/o Lat.	2	399313	believe	1.0	0.0	False
-400.888	0.0	2Suff PseudoStemNW	24	400888	snoughtlessly	0.0		False
+400.888	0.0	2Suff PseudoStemNW	24	400888	snoughtlessly	0.0	n/a	False
 403.289	0.0	2Suff w/o Lat.	22	403289	fatalist	1.0	0.0	False
 404.348	0.0	1Suff PseudoStemNW	14	404348	sorken	0.0	1.0	False
 405.798	0.0	2Suff PseudoStemNW	24	405798	pipplification	0.0	1.0	False
@@ -224,7 +224,7 @@ onset	duration	trial_type	value	sample	stimulus	is_word	response	correct
 427.155	0.0	2Suff w/o Lat.	22	427155	leadership	1.0	0.0	False
 428.105	0.0	0Suff NW	4	428105	gulbs	0.0	1.0	False
 429.414	0.0	2Suff RealStemNW	25	429414	manionist	0.0	1.0	False
-431.223	0.0	2Suff RealStemNW	25	431223	notifilessly	0.0		False
+431.223	0.0	2Suff RealStemNW	25	431223	notifilessly	0.0	n/a	False
 433.64	0.0	2Suff w/o Lat.	22	433640	fatally	1.0	0.0	False
 434.891	0.0	2Suff PseudoStemNW	24	434891	diructorship	0.0	1.0	False
 436.466	0.0	2Suff RealStemNW	25	436466	considerishly	0.0	1.0	False
@@ -232,7 +232,7 @@ onset	duration	trial_type	value	sample	stimulus	is_word	response	correct
 439.034	0.0	2Suff RealStemNW	25	439034	isolatmental	0.0	1.0	False
 440.876	0.0	0Suff w/o Lat.	2	440876	lead	1.0	0.0	False
 441.926	0.0	2Suff w/o Lat.	22	441926	mobilization	1.0	0.0	False
-442.943	0.0	2Suff RealStemNW	25	442943	familiately	0.0		False
+442.943	0.0	2Suff RealStemNW	25	442943	familiately	0.0	n/a	False
 445.344	0.0	0Suff w/o Lat.	2	445344	child	1.0	0.0	False
 446.377	0.0	1Suff RealStemNW	15	446377	provocatful	0.0	0.0	True
 447.603	0.0	2Suff Composite	23	447603	sterilization	1.0	0.0	False
@@ -248,13 +248,13 @@ onset	duration	trial_type	value	sample	stimulus	is_word	response	correct
 471.469	0.0	2Suff RealStemNW	25	471469	periodally	0.0	1.0	False
 473.678	0.0	0Suff NW	4	473678	halk	0.0	1.0	False
 475.245	0.0	2Suff w/o Lat.	22	475245	statistically	1.0	0.0	False
-476.362	0.0	1Suff PseudoStemNW	14	476362	hythical	0.0		False
+476.362	0.0	1Suff PseudoStemNW	14	476362	hythical	0.0	n/a	False
 478.762	0.0	2Suff RealStemNW	25	478762	satirally	0.0	0.0	True
 480.255	0.0	0Suff NW	4	480255	stitile	0.0	1.0	False
-482.422	0.0	2Suff w/o Lat.	22	482422	timeliness	1.0		False
+482.422	0.0	2Suff w/o Lat.	22	482422	timeliness	1.0	n/a	False
 484.814	0.0	2Suff PseudoStemNW	24	484814	restittably	0.0	1.0	False
 486.823	0.0	2Suff PseudoStemNW	24	486823	otification	0.0	1.0	False
-488.724	0.0	2Suff RealStemNW	25	488724	immunability	0.0		False
+488.724	0.0	2Suff RealStemNW	25	488724	immunability	0.0	n/a	False
 491.125	0.0	0Suff NW	4	491125	nole	0.0	1.0	False
 493.2	0.0	0Suff w/ Lat.	1	493200	extend	1.0	0.0	False
 494.734	0.0	0Suff NW	4	494734	stoteld	0.0	1.0	False
@@ -266,7 +266,7 @@ onset	duration	trial_type	value	sample	stimulus	is_word	response	correct
 504.996	0.0	2Suff w/o Lat.	22	504996	persuasively	1.0	0.0	False
 506.163	0.0	2Suff RealStemNW	25	506163	guardifiance	0.0	1.0	False
 507.763	0.0	2Suff PseudoStemNW	24	507763	utelessness	0.0	1.0	False
-508.997	0.0	1Suff RealStemNW	15	508997	magnetal	0.0		False
+508.997	0.0	1Suff RealStemNW	15	508997	magnetal	0.0	n/a	False
 511.389	0.0	1Suff w/o Lat.	12	511389	partial	1.0	0.0	False
 512.398	0.0	2Suff w/ Lat.	21	512398	conceptually	1.0	0.0	False
 513.448	0.0	2Suff Composite	23	513448	vexation	1.0	1.0	True
@@ -287,7 +287,7 @@ onset	duration	trial_type	value	sample	stimulus	is_word	response	correct
 531.462	0.0	2Suff PseudoStemNW	24	531462	prodfessively	0.0	1.0	False
 533.104	0.0	0Suff w/o Lat.	2	533104	sleep	1.0	0.0	False
 534.363	0.0	0Suff w/o Lat.	2	534363	trivia	1.0	0.0	False
-535.363	0.0	1Suff PseudoStemNW	14	535363	concolerable	0.0		False
+535.363	0.0	1Suff PseudoStemNW	14	535363	concolerable	0.0	n/a	False
 537.756	0.0	2Suff w/o Lat.	22	537756	developmental	1.0	0.0	False
 538.664	0.0	1Suff RealStemNW	15	538664	gleeive	0.0	1.0	False
 540.273	0.0	1Suff w/o Lat.	12	540273	intensive	1.0	0.0	False
@@ -298,7 +298,7 @@ onset	duration	trial_type	value	sample	stimulus	is_word	response	correct
 547.092	0.0	2Suff w/o Lat.	22	547092	ritualistic	1.0	0.0	False
 548.201	0.0	2Suff PseudoStemNW	24	548201	miccessfully	0.0	1.0	False
 549.484	0.0	1Suff RealStemNW	15	549484	polit	0.0	1.0	False
-550.91	0.0	1Suff PseudoStemNW	14	550910	reration	0.0		False
+550.91	0.0	1Suff PseudoStemNW	14	550910	reration	0.0	n/a	False
 553.31	0.0	1Suff w/o Lat.	12	553310	transition	1.0	0.0	False
 554.252	0.0	0Suff NW	4	554252	provame	0.0	1.0	False
 555.544	0.0	2Suff PseudoStemNW	24	555544	urhanization	0.0	1.0	False
@@ -338,7 +338,7 @@ onset	duration	trial_type	value	sample	stimulus	is_word	response	correct
 596.916	0.0	0Suff NW	4	596916	pask	0.0	1.0	False
 598.291	0.0	0Suff NW	4	598291	tipe	0.0	1.0	False
 599.325	0.0	1Suff PseudoStemNW	14	599325	awdition	0.0	1.0	False
-600.417	0.0	2Suff RealStemNW	25	600417	cheerability	0.0		False
+600.417	0.0	2Suff RealStemNW	25	600417	cheerability	0.0	n/a	False
 602.817	0.0	0Suff NW	4	602817	headth	0.0	1.0	False
 604.359	0.0	2Suff PseudoStemNW	24	604359	deabonably	0.0	1.0	False
 606.477	0.0	1Suff RealStemNW	15	606477	persistify	0.0	1.0	False
@@ -357,7 +357,7 @@ onset	duration	trial_type	value	sample	stimulus	is_word	response	correct
 621.365	0.0	1Suff PseudoStemNW	14	621365	rhylphic	0.0	1.0	False
 622.582	0.0	2Suff RealStemNW	25	622582	impressliness	0.0	1.0	False
 631.876	0.0	2Suff w/ Lat.	21	631876	mistakenly	1.0	0.0	False
-632.935	0.0	1Suff RealStemNW	15	632935	architectian	0.0		False
+632.935	0.0	1Suff RealStemNW	15	632935	architectian	0.0	n/a	False
 635.344	0.0	1Suff w/o Lat.	12	635344	realist	1.0	0.0	False
 636.561	0.0	2Suff PseudoStemNW	24	636561	awditional	0.0	1.0	False
 637.945	0.0	1Suff w/o Lat.	12	637945	addition	1.0	0.0	False
@@ -384,7 +384,7 @@ onset	duration	trial_type	value	sample	stimulus	is_word	response	correct
 664.778	0.0	2Suff RealStemNW	25	664778	provocatfully	0.0	1.0	False
 666.754	0.0	0Suff NW	4	666754	isotent	0.0	1.0	False
 667.829	0.0	2Suff w/o Lat.	22	667829	executioner	1.0	0.0	False
-669.621	0.0	2Suff RealStemNW	25	669621	differalism	0.0		False
+669.621	0.0	2Suff RealStemNW	25	669621	differalism	0.0	n/a	False
 672.022	0.0	2Suff RealStemNW	25	672022	decisishness	0.0	1.0	False
 673.689	0.0	2Suff PseudoStemNW	24	673689	vimidation	0.0	1.0	False
 674.998	0.0	0Suff NW	4	674998	falget	0.0	1.0	False
@@ -397,8 +397,8 @@ onset	duration	trial_type	value	sample	stimulus	is_word	response	correct
 684.359	0.0	2Suff w/o Lat.	22	684359	agreeably	1.0	0.0	False
 685.426	0.0	1Suff RealStemNW	15	685426	marketless	0.0	1.0	False
 687.502	0.0	0Suff w/o Lat.	2	687502	material	1.0	0.0	False
-688.51	0.0	1Suff RealStemNW	15	688510	ritualify	0.0		False
-690.903	0.0	1Suff RealStemNW	15	690903	designion	0.0		False
+688.51	0.0	1Suff RealStemNW	15	688510	ritualify	0.0	n/a	False
+690.903	0.0	1Suff RealStemNW	15	690903	designion	0.0	n/a	False
 693.312	0.0	1Suff PseudoStemNW	14	693312	vimidate	0.0	1.0	False
 694.721	0.0	1Suff RealStemNW	15	694721	basly	0.0	1.0	False
 696.038	0.0	2Suff PseudoStemNW	24	696038	priueurantly	0.0	1.0	False
@@ -464,7 +464,7 @@ onset	duration	trial_type	value	sample	stimulus	is_word	response	correct
 773.712	0.0	0Suff w/ Lat.	1	773712	mistake	1.0	0.0	False
 774.579	0.0	0Suff NW	4	774579	deabon	0.0	1.0	False
 775.571	0.0	1Suff RealStemNW	15	775571	availless	0.0	1.0	False
-777.071	0.0	2Suff PseudoStemNW	24	777071	prebitably	0.0		False
+777.071	0.0	2Suff PseudoStemNW	24	777071	prebitably	0.0	n/a	False
 779.472	0.0	2Suff RealStemNW	25	779472	relatifiable	0.0	1.0	False
 781.556	0.0	1Suff w/o Lat.	12	781556	harmless	1.0	0.0	False
 782.498	0.0	1Suff PseudoStemNW	14	782498	worchless	0.0	1.0	False
@@ -488,7 +488,7 @@ onset	duration	trial_type	value	sample	stimulus	is_word	response	correct
 817.834	0.0	2Suff w/o Lat.	22	817834	childishly	1.0	0.0	False
 819.709	0.0	2Suff w/o Lat.	22	819709	wakefulness	1.0	0.0	False
 821.235	0.0	1Suff w/o Lat.	12	821235	familiar	1.0	0.0	False
-822.235	0.0	1Suff RealStemNW	15	822235	isolatate	0.0		False
+822.235	0.0	1Suff RealStemNW	15	822235	isolatate	0.0	n/a	False
 824.636	0.0	2Suff Composite	23	824636	categorical	1.0	0.0	False
 825.594	0.0	1Suff w/o Lat.	12	825594	idealize	1.0	0.0	False
 826.62	0.0	2Suff w/o Lat.	22	826620	cheerfully	1.0	0.0	False
@@ -503,7 +503,7 @@ onset	duration	trial_type	value	sample	stimulus	is_word	response	correct
 838.407	0.0	1Suff w/o Lat.	12	838407	guilty	1.0	0.0	False
 839.315	0.0	2Suff w/o Lat.	22	839315	hopefully	1.0	0.0	False
 840.165	0.0	0Suff NW	4	840165	degor	0.0	1.0	False
-841.633	0.0	2Suff RealStemNW	25	841633	characterional	0.0		False
+841.633	0.0	2Suff RealStemNW	25	841633	characterional	0.0	n/a	False
 844.033	0.0	1Suff PseudoStemNW	14	844033	chansotion	0.0	1.0	False
 845.559	0.0	2Suff PseudoStemNW	24	845559	desalkation	0.0	1.0	False
 847.051	0.0	0Suff w/o Lat.	2	847051	persuade	1.0	0.0	False
@@ -547,7 +547,7 @@ onset	duration	trial_type	value	sample	stimulus	is_word	response	correct
 893.123	0.0	2Suff PseudoStemNW	24	893123	paftiality	0.0	1.0	False
 894.415	0.0	0Suff w/o Lat.	2	894415	exhaust	1.0	0.0	False
 895.449	0.0	0Suff NW	4	895449	mowth	0.0	1.0	False
-896.433	0.0	2Suff RealStemNW	25	896433	predictator	0.0		False
+896.433	0.0	2Suff RealStemNW	25	896433	predictator	0.0	n/a	False
 898.834	0.0	2Suff PseudoStemNW	24	898834	vefation	0.0	1.0	False
 900.526	0.0	0Suff NW	4	900526	avold	0.0	1.0	False
 901.618	0.0	1Suff PseudoStemNW	14	901618	subplencial	0.0	1.0	False
@@ -593,7 +593,7 @@ onset	duration	trial_type	value	sample	stimulus	is_word	response	correct
 947.532	0.0	2Suff Composite	23	947532	perturbation	1.0	1.0	True
 949.249	0.0	1Suff w/o Lat.	12	949249	editor	1.0	0.0	False
 950.108	0.0	2Suff Composite	23	950108	commutation	1.0	0.0	False
-951.266	0.0	2Suff RealStemNW	25	951266	glorifilessly	0.0		False
+951.266	0.0	2Suff RealStemNW	25	951266	glorifilessly	0.0	n/a	False
 962.178	0.0	2Suff RealStemNW	25	962178	raceical	0.0	1.0	False
 963.587	0.0	2Suff Composite	23	963587	organization	1.0	0.0	False
 964.595	0.0	0Suff w/o Lat.	2	964595	order	1.0	0.0	False
@@ -659,7 +659,7 @@ onset	duration	trial_type	value	sample	stimulus	is_word	response	correct
 1036.901	0.0	1Suff RealStemNW	15	1036901	delightive	0.0	1.0	False
 1038.326	0.0	0Suff NW	4	1038326	miccess	0.0	1.0	False
 1039.293	0.0	2Suff PseudoStemNW	24	1039293	banically	0.0	1.0	False
-1040.269	0.0	1Suff w/ Lat.	11	1040269	conceptual	1.0		False
+1040.269	0.0	1Suff w/ Lat.	11	1040269	conceptual	1.0	n/a	False
 1042.661	0.0	2Suff RealStemNW	25	1042661	seasonical	0.0	1.0	False
 1044.07	0.0	1Suff PseudoStemNW	14	1044070	lenctional	0.0	1.0	False
 1045.129	0.0	0Suff w/o Lat.	2	1045129	use	1.0	0.0	False
@@ -734,11 +734,11 @@ onset	duration	trial_type	value	sample	stimulus	is_word	response	correct
 1139.341	0.0	1Suff w/o Lat.	12	1139341	faithful	1.0	0.0	False
 1140.291	0.0	1Suff w/o Lat.	12	1140291	marginal	1.0	0.0	False
 1141.258	0.0	0Suff w/o Lat.	2	1141258	ritual	1.0	0.0	False
-1142.117	0.0	1Suff RealStemNW	15	1142117	sterilist	0.0		False
+1142.117	0.0	1Suff RealStemNW	15	1142117	sterilist	0.0	n/a	False
 1144.517	0.0	1Suff RealStemNW	15	1144517	instructate	0.0	1.0	False
 1146.785	0.0	1Suff w/o Lat.	12	1146785	useful	1.0	0.0	False
 1147.985	0.0	1Suff RealStemNW	15	1147985	successate	0.0	1.0	False
-1149.444	0.0	2Suff PseudoStemNW	24	1149444	rerativity	0.0		False
+1149.444	0.0	2Suff PseudoStemNW	24	1149444	rerativity	0.0	n/a	False
 1151.836	0.0	1Suff w/ Lat.	11	1151836	extensive	1.0	0.0	False
 1153.47	0.0	2Suff Composite	23	1153470	dramatization	1.0	0.0	False
 1155.488	0.0	1Suff w/ Lat.	11	1155488	subjective	1.0	0.0	False
@@ -847,16 +847,16 @@ onset	duration	trial_type	value	sample	stimulus	is_word	response	correct
 1278.876	0.0	0Suff NW	4	1278876	sushect	0.0	1.0	False
 1280.009	0.0	2Suff PseudoStemNW	24	1280009	degorative	0.0	1.0	False
 1281.151	0.0	0Suff w/o Lat.	2	1281151	accident	1.0	0.0	False
-1282.102	0.0	2Suff RealStemNW	25	1282102	persistalism	0.0		False
+1282.102	0.0	2Suff RealStemNW	25	1282102	persistalism	0.0	n/a	False
 1284.494	0.0	0Suff NW	4	1284494	stumia	0.0	1.0	False
-1285.536	0.0	2Suff RealStemNW	25	1285536	fatantly	0.0		False
+1285.536	0.0	2Suff RealStemNW	25	1285536	fatantly	0.0	n/a	False
 1287.937	0.0	0Suff NW	4	1287937	orifad	0.0	1.0	False
 1289.137	0.0	2Suff PseudoStemNW	24	1289137	mistilenly	0.0	1.0	False
 1290.171	0.0	1Suff PseudoStemNW	14	1290171	orifadal	0.0	1.0	False
 1291.338	0.0	2Suff Composite	23	1291338	stratification	1.0	0.0	False
 1292.788	0.0	0Suff NW	4	1292788	fleep	0.0	1.0	False
 1294.047	0.0	2Suff RealStemNW	25	1294047	ailistic	0.0	1.0	False
-1295.189	0.0	1Suff RealStemNW	15	1295189	thoughtive	0.0		False
+1295.189	0.0	1Suff RealStemNW	15	1295189	thoughtive	0.0	n/a	False
 1297.59	0.0	0Suff NW	4	1297590	rerard	0.0	1.0	False
 1298.69	0.0	2Suff Composite	23	1298690	characteristic	1.0	0.0	False
 1299.749	0.0	1Suff RealStemNW	15	1299749	peaceive	0.0	1.0	False
@@ -892,7 +892,7 @@ onset	duration	trial_type	value	sample	stimulus	is_word	response	correct
 1333.409	0.0	2Suff RealStemNW	25	1333409	poetally	0.0	1.0	False
 1334.909	0.0	0Suff NW	4	1334909	dehone	0.0	1.0	False
 1335.91	0.0	2Suff w/o Lat.	22	1335910	guiltiness	1.0	1.0	True
-1337.344	0.0	1Suff RealStemNW	15	1337344	persuasful	0.0		False
+1337.344	0.0	1Suff RealStemNW	15	1337344	persuasful	0.0	n/a	False
 1339.736	0.0	2Suff RealStemNW	25	1339736	confessality	0.0	1.0	False
 1341.278	0.0	0Suff NW	4	1341278	girern	0.0	1.0	False
 1342.212	0.0	2Suff w/o Lat.	22	1342212	commentator	1.0	0.0	False

@@ -36,7 +36,7 @@ onset	duration	trial_type	value	sample	stimulus	is_word	response	correct
 75.276	0.0	2Suff Composite	23	75276	classification	1.0	0.0	False
 76.377	0.0	1Suff w/ Lat.	11	76377	explosive	1.0	0.0	False
 77.527	0.0	1Suff w/o Lat.	12	77527	selective	1.0	0.0	False
-78.711	0.0	2Suff RealStemNW	25	78711	couragliness	0.0		False
+78.711	0.0	2Suff RealStemNW	25	78711	couragliness	0.0	n/a	False
 81.12	0.0	0Suff w/o Lat.	2	81120	noise	1.0	0.0	False
 82.462	0.0	0Suff NW	4	82462	provace	0.0	1.0	False
 83.837	0.0	2Suff PseudoStemNW	24	83837	sothodically	0.0	1.0	False
@@ -449,7 +449,7 @@ onset	duration	trial_type	value	sample	stimulus	is_word	response	correct
 643.618	0.0	2Suff PseudoStemNW	24	643618	trithfulness	0.0	1.0	False
 644.977	0.0	2Suff RealStemNW	25	644977	endiously	0.0	1.0	False
 647.194	0.0	1Suff RealStemNW	15	647194	tireable	0.0	1.0	False
-648.736	0.0	0Suff NW	4	648736	cuppom	0.0		False
+648.736	0.0	0Suff NW	4	648736	cuppom	0.0	n/a	False
 651.137	0.0	0Suff NW	4	651137	massien	0.0	1.0	False
 652.612	0.0	0Suff w/o Lat.	2	652612	admire	1.0	0.0	False
 653.746	0.0	2Suff RealStemNW	25	653746	commerceical	0.0	0.0	True
@@ -532,7 +532,7 @@ onset	duration	trial_type	value	sample	stimulus	is_word	response	correct
 765.239	0.0	0Suff NW	4	765239	lond	0.0	1.0	False
 766.406	0.0	1Suff w/o Lat.	12	766406	clinical	1.0	0.0	False
 767.523	0.0	0Suff w/o Lat.	2	767523	notice	1.0	0.0	False
-768.706	0.0	2Suff RealStemNW	25	768706	suitfulness	0.0		False
+768.706	0.0	2Suff RealStemNW	25	768706	suitfulness	0.0	n/a	False
 771.099	0.0	1Suff PseudoStemNW	14	771099	ewilsence	0.0	1.0	False
 772.541	0.0	0Suff w/o Lat.	2	772541	art	1.0	0.0	False
 773.566	0.0	1Suff RealStemNW	15	773566	careive	0.0	1.0	False
@@ -590,7 +590,7 @@ onset	duration	trial_type	value	sample	stimulus	is_word	response	correct
 839.528	0.0	2Suff PseudoStemNW	24	839528	ludsily	0.0	1.0	False
 840.829	0.0	2Suff w/o Lat.	22	840829	preferably	1.0	0.0	False
 842.471	0.0	2Suff w/ Lat.	21	842471	institutional	1.0	0.0	False
-844.03	0.0	2Suff RealStemNW	25	844030	loneionist	0.0		False
+844.03	0.0	2Suff RealStemNW	25	844030	loneionist	0.0	n/a	False
 846.439	0.0	2Suff Composite	23	846439	embarkation	1.0	1.0	True
 847.756	0.0	2Suff RealStemNW	25	847756	ownmental	0.0	1.0	False
 849.081	0.0	0Suff NW	4	849081	tist	0.0	1.0	False

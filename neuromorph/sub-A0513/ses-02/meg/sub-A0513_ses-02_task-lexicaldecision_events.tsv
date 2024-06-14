@@ -194,7 +194,7 @@ onset	duration	trial_type	value	sample	stimulus	is_word	response	correct
 274.627	0.0	1Suff w/o Lat.	12	274627	useless	1.0	0.0	False
 275.644	0.0	2Suff PseudoStemNW	24	275644	ewsibally	0.0	1.0	False
 276.769	0.0	1Suff PseudoStemNW	14	276769	prowertion	0.0	1.0	False
-277.778	0.0	0Suff NW	4	277778	coul	0.0		False
+277.778	0.0	0Suff NW	4	277778	coul	0.0	n/a	False
 280.195	0.0	0Suff w/o Lat.	2	280195	sleep	1.0	0.0	False
 281.137	0.0	0Suff NW	4	281137	faulm	0.0	1.0	False
 282.329	0.0	0Suff w/o Lat.	2	282329	decide	1.0	0.0	False
@@ -781,11 +781,11 @@ onset	duration	trial_type	value	sample	stimulus	is_word	response	correct
 961.888	0.0	0Suff NW	4	961888	headth	0.0	1.0	False
 962.955	0.0	1Suff RealStemNW	15	962955	heroal	0.0	1.0	False
 963.947	0.0	1Suff PseudoStemNW	14	963947	rhylphic	0.0	1.0	False
-964.989	0.0	0Suff w/ Lat.	1	964989	subject	1.0		False
+964.989	0.0	0Suff w/ Lat.	1	964989	subject	1.0	n/a	False
 967.39	0.0	2Suff Composite	23	967390	futuristic	1.0	0.0	False
 969.407	0.0	0Suff w/o Lat.	2	969407	ideal	1.0	0.0	False
 970.633	0.0	0Suff w/o Lat.	2	970633	wake	1.0	0.0	False
-971.691	0.0	2Suff PseudoStemNW	24	971691	detismsfully	0.0		False
+971.691	0.0	2Suff PseudoStemNW	24	971691	detismsfully	0.0	n/a	False
 974.092	0.0	1Suff w/o Lat.	12	974092	successful	1.0	0.0	False
 975.409	0.0	1Suff w/o Lat.	12	975409	considerable	1.0	0.0	False
 976.793	0.0	1Suff RealStemNW	15	976793	architectian	0.0	1.0	False

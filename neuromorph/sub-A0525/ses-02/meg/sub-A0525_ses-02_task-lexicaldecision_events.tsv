@@ -150,7 +150,7 @@ onset	duration	trial_type	value	sample	stimulus	is_word	response	correct
 231.743	0.0	0Suff w/o Lat.	2	231743	cheer	1.0	0.0	False
 232.576	0.0	1Suff RealStemNW	15	232576	extensful	0.0	1.0	False
 233.852	0.0	2Suff RealStemNW	25	233852	persuasfully	0.0	1.0	False
-235.744	0.0	2Suff w/o Lat.	22	235744	restlessness	1.0		False
+235.744	0.0	2Suff w/o Lat.	22	235744	restlessness	1.0	n/a	False
 238.145	0.0	0Suff w/o Lat.	2	238145	man	1.0	0.0	False
 239.003	0.0	1Suff w/o Lat.	12	239003	partial	1.0	0.0	False
 239.82	0.0	1Suff PseudoStemNW	14	239820	restittable	0.0	1.0	False
@@ -487,7 +487,7 @@ onset	duration	trial_type	value	sample	stimulus	is_word	response	correct
 607.467	0.0	1Suff w/ Lat.	11	607467	available	1.0	0.0	False
 608.543	0.0	1Suff RealStemNW	15	608543	familior	0.0	1.0	False
 609.626	0.0	2Suff w/o Lat.	22	609626	globally	1.0	0.0	False
-610.752	0.0	2Suff w/ Lat.	21	610752	projectionist	1.0		False
+610.752	0.0	2Suff w/ Lat.	21	610752	projectionist	1.0	n/a	False
 613.161	0.0	0Suff NW	4	613161	exufant	0.0	1.0	False
 614.153	0.0	2Suff w/o Lat.	22	614153	friendliness	1.0	0.0	False
 615.178	0.0	2Suff PseudoStemNW	24	615178	stitilization	0.0	1.0	False
@@ -507,7 +507,7 @@ onset	duration	trial_type	value	sample	stimulus	is_word	response	correct
 631.758	0.0	1Suff PseudoStemNW	14	631758	wrotify	0.0	1.0	False
 632.817	0.0	0Suff NW	4	632817	fleed	0.0	1.0	False
 633.842	0.0	1Suff w/ Lat.	11	633842	predictable	1.0	0.0	False
-635.159	0.0	1Suff PseudoStemNW	14	635159	steadthy	0.0		False
+635.159	0.0	1Suff PseudoStemNW	14	635159	steadthy	0.0	n/a	False
 637.551	0.0	1Suff w/o Lat.	12	637551	original	1.0	0.0	False
 638.71	0.0	2Suff w/o Lat.	22	638710	mythically	1.0	0.0	False
 639.761	0.0	2Suff w/o Lat.	22	639761	intensively	1.0	0.0	False
@@ -748,7 +748,7 @@ onset	duration	trial_type	value	sample	stimulus	is_word	response	correct
 901.658	0.0	1Suff PseudoStemNW	14	901658	hythical	0.0	1.0	False
 902.95	0.0	1Suff w/o Lat.	12	902950	friendly	1.0	0.0	False
 904.134	0.0	0Suff NW	4	904134	glibe	0.0	1.0	False
-905.234	0.0	2Suff RealStemNW	25	905234	subjectously	0.0		False
+905.234	0.0	2Suff RealStemNW	25	905234	subjectously	0.0	n/a	False
 907.635	0.0	2Suff w/o Lat.	22	907635	speedily	1.0	0.0	False
 908.568	0.0	1Suff w/o Lat.	12	908568	global	1.0	1.0	True
 909.444	0.0	2Suff w/o Lat.	22	909444	fatalist	1.0	1.0	True

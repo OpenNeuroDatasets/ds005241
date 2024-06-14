@@ -4,7 +4,7 @@ onset	duration	trial_type	value	sample	stimulus	is_word	response	correct
 39.776	0.0	2Suff w/o Lat.	22	39776	flexibility	1.0	0.0	False
 41.018	0.0	0Suff NW	4	41018	coatage	0.0	1.0	False
 43.243	0.0	2Suff w/o Lat.	22	43243	monumentally	1.0	0.0	False
-44.827	0.0	2Suff PseudoStemNW	24	44827	grearively	0.0		False
+44.827	0.0	2Suff PseudoStemNW	24	44827	grearively	0.0	n/a	False
 47.236	0.0	1Suff PseudoStemNW	14	47236	precukable	0.0	1.0	False
 48.862	0.0	0Suff NW	4	48862	healt	0.0	1.0	False
 50.354	0.0	1Suff PseudoStemNW	14	50354	brealtless	0.0	1.0	False
@@ -57,7 +57,7 @@ onset	duration	trial_type	value	sample	stimulus	is_word	response	correct
 114.757	0.0	1Suff PseudoStemNW	14	114757	indlidstive	0.0	1.0	False
 115.999	0.0	0Suff NW	4	115999	retend	0.0	1.0	False
 117.808	0.0	0Suff w/o Lat.	2	117808	vary	1.0	0.0	False
-118.933	0.0	1Suff RealStemNW	15	118933	institutate	0.0		False
+118.933	0.0	1Suff RealStemNW	15	118933	institutate	0.0	n/a	False
 121.334	0.0	2Suff w/o Lat.	22	121334	abolitionist	1.0	0.0	False
 122.534	0.0	2Suff w/o Lat.	22	122534	joyfully	1.0	0.0	False
 123.56	0.0	2Suff RealStemNW	25	123560	actional	0.0	0.0	True
@@ -115,7 +115,7 @@ onset	duration	trial_type	value	sample	stimulus	is_word	response	correct
 190.422	0.0	2Suff PseudoStemNW	24	190422	sarumentally	0.0	1.0	False
 191.964	0.0	2Suff RealStemNW	25	191964	masterively	0.0	1.0	False
 193.648	0.0	0Suff w/ Lat.	1	193648	excess	1.0	1.0	True
-194.74	0.0	2Suff RealStemNW	25	194740	fruitiously	0.0		False
+194.74	0.0	2Suff RealStemNW	25	194740	fruitiously	0.0	n/a	False
 197.132	0.0	1Suff PseudoStemNW	14	197132	gunderful	0.0	1.0	False
 198.516	0.0	0Suff NW	4	198516	exfapt	0.0	1.0	False
 204.752	0.0	2Suff w/o Lat.	22	204752	sensuality	1.0	0.0	False
@@ -157,10 +157,10 @@ onset	duration	trial_type	value	sample	stimulus	is_word	response	correct
 252.508	0.0	0Suff NW	4	252508	pimer	0.0	1.0	False
 253.808	0.0	0Suff NW	4	253808	pacic	0.0	1.0	False
 255.192	0.0	0Suff w/o Lat.	2	255192	haste	1.0	0.0	False
-256.651	0.0	2Suff PseudoStemNW	24	256651	lokeliness	0.0		False
+256.651	0.0	2Suff PseudoStemNW	24	256651	lokeliness	0.0	n/a	False
 259.043	0.0	1Suff w/o Lat.	12	259043	artist	1.0	0.0	False
-260.777	0.0	2Suff w/ Lat.	21	260777	exclusiveness	1.0		False
-263.203	0.0	2Suff RealStemNW	25	263203	signiousness	0.0		False
+260.777	0.0	2Suff w/ Lat.	21	260777	exclusiveness	1.0	n/a	False
+263.203	0.0	2Suff RealStemNW	25	263203	signiousness	0.0	n/a	False
 265.579	0.0	2Suff w/o Lat.	22	265579	nationality	1.0	0.0	False
 267.046	0.0	0Suff w/o Lat.	2	267046	mourn	1.0	0.0	False
 268.288	0.0	2Suff PseudoStemNW	24	268288	selvuality	0.0	1.0	False
@@ -493,7 +493,7 @@ onset	duration	trial_type	value	sample	stimulus	is_word	response	correct
 666.911	0.0	0Suff w/o Lat.	2	666911	person	1.0	1.0	True
 667.794	0.0	2Suff PseudoStemNW	24	667794	navounalism	0.0	0.0	True
 668.686	0.0	2Suff PseudoStemNW	24	668686	conspodively	0.0	0.0	True
-669.486	0.0	2Suff PseudoStemNW	24	669486	comburation	0.0		False
+669.486	0.0	2Suff PseudoStemNW	24	669486	comburation	0.0	n/a	False
 671.879	0.0	2Suff w/o Lat.	22	671879	beautifully	1.0	0.0	False
 673.004	0.0	2Suff RealStemNW	25	673004	virtuerize	0.0	0.0	True
 674.321	0.0	0Suff w/ Lat.	1	674321	perfect	1.0	1.0	True
@@ -537,7 +537,7 @@ onset	duration	trial_type	value	sample	stimulus	is_word	response	correct
 721.011	0.0	2Suff w/o Lat.	22	721011	computerize	1.0	0.0	False
 722.653	0.0	2Suff w/o Lat.	22	722653	selflessness	1.0	0.0	False
 724.237	0.0	0Suff w/o Lat.	2	724237	nation	1.0	0.0	False
-725.095	0.0	2Suff RealStemNW	25	725095	identifilessly	0.0		False
+725.095	0.0	2Suff RealStemNW	25	725095	identifilessly	0.0	n/a	False
 727.496	0.0	2Suff RealStemNW	25	727496	civilability	0.0	1.0	False
 728.913	0.0	0Suff NW	4	728913	excrode	0.0	1.0	False
 730.005	0.0	1Suff w/o Lat.	12	730005	excellent	1.0	0.0	False
@@ -621,7 +621,7 @@ onset	duration	trial_type	value	sample	stimulus	is_word	response	correct
 822.967	0.0	2Suff w/ Lat.	21	822967	excessively	1.0	0.0	False
 824.051	0.0	1Suff PseudoStemNW	14	824051	cutfural	0.0	1.0	False
 825.226	0.0	1Suff PseudoStemNW	14	825226	selveless	0.0	0.0	True
-826.185	0.0	2Suff RealStemNW	25	826185	careiousness	0.0		False
+826.185	0.0	2Suff RealStemNW	25	826185	careiousness	0.0	n/a	False
 828.585	0.0	1Suff w/o Lat.	12	828585	cyclic	1.0	0.0	False
 829.552	0.0	2Suff PseudoStemNW	24	829552	arpivity	0.0	1.0	False
 830.578	0.0	2Suff Composite	23	830578	hierarchical	1.0	0.0	False

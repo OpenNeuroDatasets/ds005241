@@ -59,7 +59,7 @@ onset	duration	trial_type	value	sample	stimulus	is_word	response	correct
 113.662	0.0	0Suff NW	4	113662	massien	0.0	1.0	False
 114.745	0.0	1Suff w/o Lat.	12	114745	creative	1.0	0.0	False
 115.804	0.0	1Suff PseudoStemNW	14	115804	gunderful	0.0	1.0	False
-117.096	0.0	2Suff RealStemNW	25	117096	penalilessly	0.0		False
+117.096	0.0	2Suff RealStemNW	25	117096	penalilessly	0.0	n/a	False
 119.497	0.0	1Suff w/o Lat.	12	119497	monumental	1.0	0.0	False
 120.497	0.0	1Suff PseudoStemNW	14	120497	nolfy	0.0	1.0	False
 121.522	0.0	0Suff NW	4	121522	exprede	0.0	1.0	False
@@ -189,7 +189,7 @@ onset	duration	trial_type	value	sample	stimulus	is_word	response	correct
 342.065	0.0	0Suff w/o Lat.	2	342065	prophet	1.0	0.0	False
 343.132	0.0	0Suff NW	4	343132	retend	0.0	1.0	False
 344.399	0.0	1Suff w/o Lat.	12	344399	existence	1.0	0.0	False
-346.075	0.0	2Suff RealStemNW	25	346075	victimilessly	0.0		False
+346.075	0.0	2Suff RealStemNW	25	346075	victimilessly	0.0	n/a	False
 348.484	0.0	1Suff w/ Lat.	11	348484	effective	1.0	0.0	False
 349.868	0.0	1Suff RealStemNW	15	349868	helpive	0.0	1.0	False
 351.143	0.0	1Suff w/ Lat.	11	351143	conductive	1.0	0.0	False
@@ -695,7 +695,7 @@ onset	duration	trial_type	value	sample	stimulus	is_word	response	correct
 1112.586	0.0	1Suff RealStemNW	15	1112586	careable	0.0	1.0	False
 1114.203	0.0	0Suff NW	4	1114203	conspode	0.0	1.0	False
 1115.561	0.0	1Suff PseudoStemNW	14	1115561	cuppomary	0.0	1.0	False
-1116.72	0.0	2Suff Composite	23	1116720	allegorical	1.0		False
+1116.72	0.0	2Suff Composite	23	1116720	allegorical	1.0	n/a	False
 1119.121	0.0	0Suff w/o Lat.	2	1119121	brute	1.0	0.0	False
 1120.138	0.0	2Suff w/ Lat.	21	1120138	excessively	1.0	0.0	False
 1121.297	0.0	1Suff PseudoStemNW	14	1121297	seetable	0.0	1.0	False
@@ -704,7 +704,7 @@ onset	duration	trial_type	value	sample	stimulus	is_word	response	correct
 1124.756	0.0	0Suff w/o Lat.	2	1124756	sharp	1.0	0.0	False
 1125.865	0.0	1Suff w/o Lat.	12	1125865	herbal	1.0	0.0	False
 1126.965	0.0	2Suff RealStemNW	25	1126965	loneionist	0.0	1.0	False
-1128.207	0.0	1Suff w/o Lat.	12	1128207	slipper	1.0		False
+1128.207	0.0	1Suff w/o Lat.	12	1128207	slipper	1.0	n/a	False
 1130.599	0.0	0Suff NW	4	1130599	combere	0.0	1.0	False
 1132.558	0.0	2Suff Composite	23	1132558	degradation	1.0	0.0	False
 1134.267	0.0	1Suff RealStemNW	15	1134267	momentish	0.0	1.0	False
@@ -820,7 +820,7 @@ onset	duration	trial_type	value	sample	stimulus	is_word	response	correct
 1291.407	0.0	0Suff NW	4	1291407	vectue	0.0	1.0	False
 1292.474	0.0	2Suff w/o Lat.	22	1292474	sensibly	1.0	0.0	False
 1294.441	0.0	1Suff w/o Lat.	12	1294441	breathless	1.0	0.0	False
-1295.525	0.0	2Suff RealStemNW	25	1295525	explosfully	0.0		False
+1295.525	0.0	2Suff RealStemNW	25	1295525	explosfully	0.0	n/a	False
 1297.934	0.0	2Suff w/o Lat.	22	1297934	admirably	1.0	0.0	False
 1298.893	0.0	1Suff PseudoStemNW	14	1298893	onnention	0.0	1.0	False
 1299.901	0.0	1Suff w/o Lat.	12	1299901	methodical	1.0	0.0	False

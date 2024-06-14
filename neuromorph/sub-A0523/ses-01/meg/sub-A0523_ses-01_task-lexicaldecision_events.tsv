@@ -21,7 +21,7 @@ onset	duration	trial_type	value	sample	stimulus	is_word	response	correct
 61.912	0.0	2Suff Composite	23	61912	identification	1.0	0.0	False
 63.212	0.0	1Suff w/o Lat.	12	63212	selective	1.0	0.0	False
 64.288	0.0	2Suff PseudoStemNW	24	64288	navounality	0.0	1.0	False
-65.921	0.0	2Suff Composite	23	65921	maturation	1.0		False
+65.921	0.0	2Suff Composite	23	65921	maturation	1.0	n/a	False
 68.322	0.0	2Suff RealStemNW	25	68322	whimsally	0.0	1.0	False
 69.906	0.0	2Suff PseudoStemNW	24	69906	sarumentally	0.0	1.0	False
 71.632	0.0	2Suff w/o Lat.	22	71632	stylistic	1.0	0.0	False
@@ -565,7 +565,7 @@ onset	duration	trial_type	value	sample	stimulus	is_word	response	correct
 743.339	0.0	2Suff w/o Lat.	22	743339	noisily	1.0	0.0	False
 745.182	0.0	0Suff w/o Lat.	2	745182	vaccine	1.0	0.0	False
 746.173	0.0	1Suff PseudoStemNW	14	746173	desterful	0.0	1.0	False
-747.532	0.0	1Suff RealStemNW	15	747532	monumentic	0.0		False
+747.532	0.0	1Suff RealStemNW	15	747532	monumentic	0.0	n/a	False
 749.925	0.0	1Suff w/o Lat.	12	749925	lovely	1.0	0.0	False
 751.308	0.0	0Suff w/o Lat.	2	751308	heart	1.0	0.0	False
 752.342	0.0	0Suff NW	4	752342	mourd	0.0	1.0	False
@@ -898,7 +898,7 @@ onset	duration	trial_type	value	sample	stimulus	is_word	response	correct
 1191.128	0.0	2Suff RealStemNW	25	1191128	artional	0.0	1.0	False
 1192.295	0.0	1Suff w/o Lat.	12	1192295	industrial	1.0	0.0	False
 1193.553	0.0	0Suff NW	4	1193553	inglinite	0.0	0.0	True
-1195.329	0.0	1Suff RealStemNW	15	1195329	merciable	0.0		False
+1195.329	0.0	1Suff RealStemNW	15	1195329	merciable	0.0	n/a	False
 1197.73	0.0	1Suff w/o Lat.	12	1197730	drunken	1.0	1.0	True
 1199.172	0.0	1Suff RealStemNW	15	1199172	relentable	0.0	0.0	True
 1200.439	0.0	2Suff RealStemNW	25	1200439	brutional	0.0	1.0	False

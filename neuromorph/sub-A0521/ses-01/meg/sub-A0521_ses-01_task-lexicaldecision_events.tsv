@@ -189,7 +189,7 @@ onset	duration	trial_type	value	sample	stimulus	is_word	response	correct
 286.768	0.0	0Suff NW	4	286768	abadill	0.0	1.0	False
 287.668	0.0	0Suff NW	4	287668	pacic	0.0	1.0	False
 288.635	0.0	2Suff PseudoStemNW	24	288635	patudation	0.0	1.0	False
-289.769	0.0	2Suff w/o Lat.	22	289769	kindliness	1.0		False
+289.769	0.0	2Suff w/o Lat.	22	289769	kindliness	1.0	n/a	False
 292.17	0.0	0Suff NW	4	292170	atstart	0.0	1.0	False
 293.72	0.0	0Suff NW	4	293720	vectue	0.0	1.0	False
 294.82	0.0	2Suff w/o Lat.	22	294820	drunkenness	1.0	1.0	True
@@ -442,7 +442,7 @@ onset	duration	trial_type	value	sample	stimulus	is_word	response	correct
 593.237	0.0	1Suff w/ Lat.	11	593237	provision	1.0	0.0	False
 594.238	0.0	0Suff NW	4	594238	murpy	0.0	1.0	False
 595.713	0.0	1Suff PseudoStemNW	14	595713	arpive	0.0	1.0	False
-596.638	0.0	2Suff RealStemNW	25	596638	fruitiously	0.0		False
+596.638	0.0	2Suff RealStemNW	25	596638	fruitiously	0.0	n/a	False
 599.039	0.0	0Suff NW	4	599039	combere	0.0	1.0	False
 600.556	0.0	2Suff w/o Lat.	22	600556	helplessly	1.0	0.0	False
 601.548	0.0	0Suff NW	4	601548	efforn	0.0	1.0	False

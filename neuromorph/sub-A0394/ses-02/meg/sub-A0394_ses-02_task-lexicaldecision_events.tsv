@@ -325,7 +325,7 @@ onset	duration	trial_type	value	sample	stimulus	is_word	response	correct
 378.518	0.0	2Suff RealStemNW	25	378518	realional	0.0	1.0	False
 379.568	0.0	1Suff w/o Lat.	12	379568	hopeful	1.0	0.0	False
 380.66	0.0	2Suff RealStemNW	25	380660	immunability	0.0	1.0	False
-382.002	0.0	0Suff w/ Lat.	1	382002	affirm	1.0		False
+382.002	0.0	0Suff w/ Lat.	1	382002	affirm	1.0	n/a	False
 384.411	0.0	1Suff RealStemNW	15	384411	availless	0.0	1.0	False
 386.079	0.0	2Suff RealStemNW	25	386079	friendionist	0.0	1.0	False
 387.054	0.0	1Suff RealStemNW	15	387054	intensful	0.0	1.0	False
@@ -415,7 +415,7 @@ onset	duration	trial_type	value	sample	stimulus	is_word	response	correct
 480.449	0.0	0Suff w/o Lat.	2	480449	period	1.0	0.0	False
 481.516	0.0	1Suff RealStemNW	15	481516	relatful	0.0	1.0	False
 482.683	0.0	2Suff w/o Lat.	22	482683	agreeably	1.0	0.0	False
-484.042	0.0	2Suff w/o Lat.	22	484042	substantially	1.0		False
+484.042	0.0	2Suff w/o Lat.	22	484042	substantially	1.0	n/a	False
 486.426	0.0	2Suff RealStemNW	25	486426	peaceively	0.0	1.0	False
 487.71	0.0	1Suff RealStemNW	15	487710	familior	0.0	1.0	False
 488.71	0.0	1Suff PseudoStemNW	14	488710	essoilial	0.0	1.0	False
@@ -465,7 +465,7 @@ onset	duration	trial_type	value	sample	stimulus	is_word	response	correct
 536.55	0.0	2Suff PseudoStemNW	24	536550	tutiously	0.0	1.0	False
 537.458	0.0	2Suff w/o Lat.	22	537458	isolationist	1.0	0.0	False
 538.734	0.0	0Suff NW	4	538734	analk	0.0	1.0	False
-539.734	0.0	1Suff w/o Lat.	12	539734	fatal	1.0		False
+539.734	0.0	1Suff w/o Lat.	12	539734	fatal	1.0	n/a	False
 542.143	0.0	1Suff w/o Lat.	12	542143	successful	1.0	0.0	False
 543.827	0.0	2Suff w/o Lat.	22	543827	relativism	1.0	0.0	False
 544.977	0.0	1Suff w/o Lat.	12	544977	racial	1.0	0.0	False
@@ -782,7 +782,7 @@ onset	duration	trial_type	value	sample	stimulus	is_word	response	correct
 907.297	0.0	2Suff PseudoStemNW	24	907297	artlitackural	0.0	1.0	False
 908.439	0.0	2Suff PseudoStemNW	24	908439	potarity	0.0	1.0	False
 909.565	0.0	0Suff w/o Lat.	2	909565	magnet	1.0	0.0	False
-910.898	0.0	1Suff PseudoStemNW	14	910898	pavediadist	0.0		False
+910.898	0.0	1Suff PseudoStemNW	14	910898	pavediadist	0.0	n/a	False
 913.307	0.0	0Suff NW	4	913307	stoteld	0.0	1.0	False
 914.366	0.0	2Suff PseudoStemNW	24	914366	orifadator	0.0	1.0	False
 915.266	0.0	2Suff w/o Lat.	22	915266	fatalist	1.0	0.0	False
@@ -934,7 +934,7 @@ onset	duration	trial_type	value	sample	stimulus	is_word	response	correct
 1086.085	0.0	2Suff PseudoStemNW	24	1086085	awditional	0.0	1.0	False
 1087.111	0.0	1Suff w/o Lat.	12	1087111	development	1.0	0.0	False
 1088.411	0.0	2Suff PseudoStemNW	24	1088411	watefulness	0.0	0.0	True
-1089.678	0.0	2Suff PseudoStemNW	24	1089678	gloofully	0.0		False
+1089.678	0.0	2Suff PseudoStemNW	24	1089678	gloofully	0.0	n/a	False
 1092.071	0.0	0Suff NW	4	1092071	rame	0.0	1.0	False
 1092.946	0.0	2Suff w/o Lat.	22	1092946	relativity	1.0	0.0	False
 1094.013	0.0	1Suff RealStemNW	15	1094013	peaceive	0.0	1.0	False

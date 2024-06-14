@@ -1,5 +1,5 @@
 onset	duration	trial_type	value	sample	stimulus	is_word	response	correct
-45.334	0.0	2Suff RealStemNW	25	45334	unifilessly	0.0		False
+45.334	0.0	2Suff RealStemNW	25	45334	unifilessly	0.0	n/a	False
 47.735	0.0	2Suff Composite	23	47735	fortification	1.0	0.0	False
 49.252	0.0	2Suff w/o Lat.	22	49252	continuously	1.0	0.0	False
 50.411	0.0	2Suff RealStemNW	25	50411	couragliness	0.0	1.0	False
@@ -115,7 +115,7 @@ onset	duration	trial_type	value	sample	stimulus	is_word	response	correct
 187.286	0.0	2Suff Composite	23	187286	maturation	1.0	0.0	False
 188.954	0.0	0Suff w/o Lat.	2	188954	broke	1.0	0.0	False
 189.937	0.0	2Suff RealStemNW	25	189937	selfiousness	0.0	0.0	True
-191.354	0.0	0Suff w/o Lat.	2	191354	beauty	1.0		False
+191.354	0.0	0Suff w/o Lat.	2	191354	beauty	1.0	n/a	False
 193.755	0.0	2Suff Composite	23	193755	farcical	1.0	1.0	True
 195.064	0.0	2Suff RealStemNW	25	195064	ordinfully	0.0	1.0	False
 200.082	0.0	1Suff RealStemNW	15	200082	conclusful	0.0	1.0	False
@@ -258,7 +258,7 @@ onset	duration	trial_type	value	sample	stimulus	is_word	response	correct
 360.031	0.0	1Suff w/o Lat.	12	360031	victimize	1.0	0.0	False
 361.223	0.0	0Suff w/o Lat.	2	361223	region	1.0	0.0	False
 362.265	0.0	2Suff RealStemNW	25	362265	effortiously	0.0	1.0	False
-363.808	0.0	0Suff NW	4	363808	abadill	0.0		False
+363.808	0.0	0Suff NW	4	363808	abadill	0.0	n/a	False
 366.2	0.0	0Suff w/o Lat.	2	366200	measure	1.0	0.0	False
 367.167	0.0	1Suff w/o Lat.	12	367167	legalize	1.0	0.0	False
 368.226	0.0	1Suff PseudoStemNW	14	368226	moolurable	0.0	1.0	False
@@ -373,7 +373,7 @@ onset	duration	trial_type	value	sample	stimulus	is_word	response	correct
 499.341	0.0	1Suff w/o Lat.	12	499341	expansive	1.0	0.0	False
 500.508	0.0	2Suff w/o Lat.	22	500508	justifiable	1.0	0.0	False
 501.792	0.0	2Suff PseudoStemNW	24	501792	selvation	0.0	1.0	False
-503.517	0.0	2Suff RealStemNW	25	503517	tacticical	0.0		False
+503.517	0.0	2Suff RealStemNW	25	503517	tacticical	0.0	n/a	False
 505.91	0.0	0Suff w/o Lat.	2	505910	moment	1.0	0.0	False
 507.618	0.0	1Suff w/o Lat.	12	507618	slipper	1.0	0.0	False
 508.677	0.0	0Suff w/ Lat.	1	508677	conduct	1.0	0.0	False

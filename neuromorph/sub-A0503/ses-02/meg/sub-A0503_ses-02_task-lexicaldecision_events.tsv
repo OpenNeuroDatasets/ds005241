@@ -252,7 +252,7 @@ onset	duration	trial_type	value	sample	stimulus	is_word	response	correct
 324.869	0.0	1Suff w/o Lat.	12	324869	direction	1.0	0.0	False
 325.852	0.0	0Suff w/o Lat.	2	325852	profit	1.0	0.0	False
 326.869	0.0	2Suff w/o Lat.	22	326869	exhaustively	1.0	1.0	True
-328.02	0.0	2Suff w/o Lat.	22	328020	partiality	1.0		False
+328.02	0.0	2Suff w/o Lat.	22	328020	partiality	1.0	n/a	False
 330.412	0.0	0Suff w/o Lat.	2	330412	adapt	1.0	0.0	False
 331.229	0.0	1Suff RealStemNW	15	331229	deadic	0.0	1.0	False
 332.338	0.0	0Suff NW	4	332338	ais	0.0	1.0	False
@@ -328,7 +328,7 @@ onset	duration	trial_type	value	sample	stimulus	is_word	response	correct
 409.336	0.0	2Suff w/o Lat.	22	409336	originally	1.0	0.0	False
 410.403	0.0	2Suff PseudoStemNW	24	410403	detismsfully	0.0	1.0	False
 411.495	0.0	2Suff RealStemNW	25	411495	vitalilessly	0.0	1.0	False
-412.512	0.0	2Suff w/o Lat.	22	412512	painlessly	1.0		False
+412.512	0.0	2Suff w/o Lat.	22	412512	painlessly	1.0	n/a	False
 414.913	0.0	1Suff PseudoStemNW	14	414913	devadive	0.0	1.0	False
 415.872	0.0	0Suff w/o Lat.	2	415872	architect	1.0	0.0	False
 416.872	0.0	2Suff w/o Lat.	22	416872	statistically	1.0	0.0	False
@@ -480,7 +480,7 @@ onset	duration	trial_type	value	sample	stimulus	is_word	response	correct
 594.785	0.0	2Suff PseudoStemNW	24	594785	reratively	0.0	1.0	False
 596.219	0.0	2Suff RealStemNW	25	596219	notifilessly	0.0	1.0	False
 598.328	0.0	1Suff w/o Lat.	12	598328	guardian	1.0	0.0	False
-599.295	0.0	0Suff w/o Lat.	2	599295	accident	1.0		False
+599.295	0.0	0Suff w/o Lat.	2	599295	accident	1.0	n/a	False
 601.696	0.0	2Suff w/o Lat.	22	601696	racially	1.0	0.0	False
 602.904	0.0	0Suff NW	4	602904	manfin	0.0	1.0	False
 603.996	0.0	2Suff w/o Lat.	22	603996	agreeably	1.0	0.0	False
@@ -595,7 +595,7 @@ onset	duration	trial_type	value	sample	stimulus	is_word	response	correct
 724.108	0.0	2Suff RealStemNW	25	724108	agreeally	0.0	1.0	False
 725.659	0.0	0Suff NW	4	725659	tuty	0.0	1.0	False
 742.047	0.0	2Suff PseudoStemNW	24	742047	perburbation	0.0	0.0	True
-743.706	0.0	2Suff RealStemNW	25	743706	predictator	0.0		False
+743.706	0.0	2Suff RealStemNW	25	743706	predictator	0.0	n/a	False
 746.098	0.0	0Suff w/o Lat.	2	746098	margin	1.0	0.0	False
 747.09	0.0	0Suff w/o Lat.	2	747090	drama	1.0	0.0	False
 747.899	0.0	0Suff NW	4	747899	steadth	0.0	1.0	False
@@ -677,7 +677,7 @@ onset	duration	trial_type	value	sample	stimulus	is_word	response	correct
 832.775	0.0	0Suff w/o Lat.	2	832775	dead	1.0	0.0	False
 834.25	0.0	1Suff PseudoStemNW	14	834250	halkless	0.0	1.0	False
 835.342	0.0	0Suff w/o Lat.	2	835342	logic	1.0	0.0	False
-836.376	0.0	2Suff RealStemNW	25	836376	seasonical	0.0		False
+836.376	0.0	2Suff RealStemNW	25	836376	seasonical	0.0	n/a	False
 838.785	0.0	0Suff NW	4	838785	onnense	0.0	1.0	False
 839.877	0.0	1Suff PseudoStemNW	14	839877	fralatic	0.0	1.0	False
 840.869	0.0	1Suff w/o Lat.	12	840869	notify	1.0	0.0	False

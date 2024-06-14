@@ -827,7 +827,7 @@ onset	duration	trial_type	value	sample	stimulus	is_word	response	correct
 1062.159	0.0	1Suff PseudoStemNW	14	1062159	londly	0.0	1.0	False
 1063.217	0.0	1Suff w/o Lat.	12	1063217	rightful	1.0	0.0	False
 1064.701	0.0	2Suff Composite	23	1064701	nullification	1.0	0.0	False
-1066.043	0.0	2Suff RealStemNW	25	1066043	hierarchally	0.0		False
+1066.043	0.0	2Suff RealStemNW	25	1066043	hierarchally	0.0	n/a	False
 1068.444	0.0	2Suff RealStemNW	25	1068444	signiousness	0.0	1.0	False
 1069.844	0.0	2Suff RealStemNW	25	1069844	masterively	0.0	1.0	False
 1071.07	0.0	1Suff PseudoStemNW	14	1071070	arpive	0.0	1.0	False

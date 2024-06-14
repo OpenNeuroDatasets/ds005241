@@ -47,10 +47,10 @@ onset	duration	trial_type	value	sample	stimulus	is_word	response	correct
 143.118	0.0	0Suff w/o Lat.	2	143118	effort	1.0	0.0	False
 144.452	0.0	0Suff NW	4	144452	perfall	0.0	1.0	False
 145.611	0.0	1Suff PseudoStemNW	14	145611	cutfural	0.0	1.0	False
-147.178	0.0	2Suff PseudoStemNW	24	147178	vetcination	0.0		False
+147.178	0.0	2Suff PseudoStemNW	24	147178	vetcination	0.0	n/a	False
 149.579	0.0	0Suff NW	4	149579	freat	0.0	1.0	False
 150.662	0.0	1Suff w/o Lat.	12	150662	tactical	1.0	0.0	False
-151.896	0.0	2Suff RealStemNW	25	151896	hierarchally	0.0		False
+151.896	0.0	2Suff RealStemNW	25	151896	hierarchally	0.0	n/a	False
 154.297	0.0	1Suff RealStemNW	15	154297	relentable	0.0	1.0	False
 156.347	0.0	0Suff NW	4	156347	pacic	0.0	1.0	False
 157.373	0.0	1Suff w/o Lat.	12	157373	fortunate	1.0	0.0	False
@@ -97,7 +97,7 @@ onset	duration	trial_type	value	sample	stimulus	is_word	response	correct
 211.023	0.0	2Suff w/o Lat.	22	211023	tactically	1.0	0.0	False
 212.223	0.0	1Suff RealStemNW	15	212223	monumentic	0.0	1.0	False
 213.915	0.0	2Suff w/o Lat.	22	213915	ceaselessly	1.0	1.0	True
-215.174	0.0	1Suff PseudoStemNW	14	215174	herfal	0.0		False
+215.174	0.0	1Suff PseudoStemNW	14	215174	herfal	0.0	n/a	False
 217.575	0.0	1Suff w/ Lat.	11	217575	perfection	1.0	0.0	False
 218.875	0.0	2Suff w/ Lat.	21	218875	inspirational	1.0	0.0	False
 220.142	0.0	2Suff PseudoStemNW	24	220142	blunkenness	0.0	1.0	False
@@ -120,7 +120,7 @@ onset	duration	trial_type	value	sample	stimulus	is_word	response	correct
 240.54	0.0	1Suff w/ Lat.	11	240540	excessive	1.0	0.0	False
 248.893	0.0	0Suff NW	4	248893	copperce	0.0	1.0	False
 250.11	0.0	2Suff w/o Lat.	22	250110	preferably	1.0	0.0	False
-252.085	0.0	1Suff PseudoStemNW	14	252085	janiable	0.0		False
+252.085	0.0	1Suff PseudoStemNW	14	252085	janiable	0.0	n/a	False
 254.486	0.0	1Suff w/o Lat.	12	254486	procedure	1.0	0.0	False
 255.503	0.0	0Suff NW	4	255503	darber	0.0	1.0	False
 256.503	0.0	2Suff w/ Lat.	21	256503	expressionism	1.0	1.0	True
@@ -245,7 +245,7 @@ onset	duration	trial_type	value	sample	stimulus	is_word	response	correct
 412.994	0.0	1Suff w/o Lat.	12	412994	merciless	1.0	0.0	False
 414.277	0.0	2Suff RealStemNW	25	414277	identifilessly	0.0	1.0	False
 416.111	0.0	2Suff RealStemNW	25	416111	criticical	0.0	1.0	False
-417.895	0.0	2Suff w/o Lat.	22	417895	herbalist	1.0		False
+417.895	0.0	2Suff w/o Lat.	22	417895	herbalist	1.0	n/a	False
 420.296	0.0	2Suff RealStemNW	25	420296	brokiness	0.0	1.0	False
 421.696	0.0	2Suff w/ Lat.	21	421696	objectively	1.0	0.0	False
 422.78	0.0	2Suff RealStemNW	25	422780	whimsally	0.0	1.0	False
@@ -431,7 +431,7 @@ onset	duration	trial_type	value	sample	stimulus	is_word	response	correct
 636.571	0.0	2Suff w/o Lat.	22	636571	justification	1.0	0.0	False
 637.755	0.0	2Suff w/o Lat.	22	637755	stylistic	1.0	0.0	False
 640.047	0.0	1Suff PseudoStemNW	14	640047	obwertion	0.0	1.0	False
-641.114	0.0	2Suff w/o Lat.	22	641114	excellently	1.0		False
+641.114	0.0	2Suff w/o Lat.	22	641114	excellently	1.0	n/a	False
 643.507	0.0	0Suff NW	4	643507	sarument	0.0	1.0	False
 644.515	0.0	1Suff PseudoStemNW	14	644515	allendive	0.0	1.0	False
 645.674	0.0	2Suff w/o Lat.	22	645674	commercialize	1.0	0.0	False
@@ -649,7 +649,7 @@ onset	duration	trial_type	value	sample	stimulus	is_word	response	correct
 906.446	0.0	2Suff RealStemNW	25	906446	expansishness	0.0	1.0	False
 908.839	0.0	1Suff w/o Lat.	12	908839	needless	1.0	0.0	False
 909.756	0.0	2Suff w/o Lat.	22	909756	loveliness	1.0	0.0	False
-911.94	0.0	2Suff w/o Lat.	22	911940	senselessly	1.0		False
+911.94	0.0	2Suff w/o Lat.	22	911940	senselessly	1.0	n/a	False
 914.34	0.0	1Suff PseudoStemNW	14	914340	brealtless	0.0	1.0	False
 915.691	0.0	1Suff RealStemNW	15	915691	drunkor	0.0	1.0	False
 916.833	0.0	0Suff NW	4	916833	spip	0.0	1.0	False
@@ -764,7 +764,7 @@ onset	duration	trial_type	value	sample	stimulus	is_word	response	correct
 1044.797	0.0	0Suff w/o Lat.	2	1044797	second	1.0	0.0	False
 1045.889	0.0	2Suff w/o Lat.	22	1045889	courageously	1.0	0.0	False
 1047.065	0.0	1Suff RealStemNW	15	1047065	falsant	0.0	1.0	False
-1048.148	0.0	2Suff w/o Lat.	22	1048148	humanistic	1.0		False
+1048.148	0.0	2Suff w/o Lat.	22	1048148	humanistic	1.0	n/a	False
 1050.557	0.0	2Suff w/o Lat.	22	1050557	powerfully	1.0	0.0	False
 1051.599	0.0	2Suff w/o Lat.	22	1051599	cyclical	1.0	0.0	False
 1053.05	0.0	0Suff NW	4	1053050	faice	0.0	0.0	True
